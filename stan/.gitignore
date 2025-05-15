@@ -1,0 +1,15 @@
+# Ignore everything
+*
+
+# Allow .stan and .txt files
+!*.stan
+!*.txt
+
+# Allow this .gitignore file
+!.gitignore
+
+# Ignore .hpp files
+*.hpp
+
+# Ignore files without a dot (no extension)
+*.
