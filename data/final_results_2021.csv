@@ -1,0 +1,441 @@
+DriverNumber,Abbreviation,DriverId,TeamId,Position,EventName,Round,Season
+44,HAM,hamilton,mercedes,1.0,Bahrain Grand Prix,1,2021
+33,VER,max_verstappen,red_bull,2.0,Bahrain Grand Prix,1,2021
+77,BOT,bottas,mercedes,3.0,Bahrain Grand Prix,1,2021
+4,NOR,norris,mclaren,4.0,Bahrain Grand Prix,1,2021
+11,PER,perez,red_bull,5.0,Bahrain Grand Prix,1,2021
+16,LEC,leclerc,ferrari,6.0,Bahrain Grand Prix,1,2021
+3,RIC,ricciardo,mclaren,7.0,Bahrain Grand Prix,1,2021
+55,SAI,sainz,ferrari,8.0,Bahrain Grand Prix,1,2021
+22,TSU,tsunoda,alphatauri,9.0,Bahrain Grand Prix,1,2021
+18,STR,stroll,aston_martin,10.0,Bahrain Grand Prix,1,2021
+7,RAI,raikkonen,alfa,11.0,Bahrain Grand Prix,1,2021
+99,GIO,giovinazzi,alfa,12.0,Bahrain Grand Prix,1,2021
+31,OCO,ocon,alpine,13.0,Bahrain Grand Prix,1,2021
+63,RUS,russell,williams,14.0,Bahrain Grand Prix,1,2021
+5,VET,vettel,aston_martin,15.0,Bahrain Grand Prix,1,2021
+47,MSC,mick_schumacher,haas,16.0,Bahrain Grand Prix,1,2021
+10,GAS,gasly,alphatauri,17.0,Bahrain Grand Prix,1,2021
+6,LAT,latifi,williams,18.0,Bahrain Grand Prix,1,2021
+14,ALO,alonso,alpine,19.0,Bahrain Grand Prix,1,2021
+9,MAZ,mazepin,haas,20.0,Bahrain Grand Prix,1,2021
+33,VER,max_verstappen,red_bull,1.0,Emilia Romagna Grand Prix,2,2021
+44,HAM,hamilton,mercedes,2.0,Emilia Romagna Grand Prix,2,2021
+4,NOR,norris,mclaren,3.0,Emilia Romagna Grand Prix,2,2021
+16,LEC,leclerc,ferrari,4.0,Emilia Romagna Grand Prix,2,2021
+55,SAI,sainz,ferrari,5.0,Emilia Romagna Grand Prix,2,2021
+3,RIC,ricciardo,mclaren,6.0,Emilia Romagna Grand Prix,2,2021
+10,GAS,gasly,alphatauri,7.0,Emilia Romagna Grand Prix,2,2021
+18,STR,stroll,aston_martin,8.0,Emilia Romagna Grand Prix,2,2021
+31,OCO,ocon,alpine,9.0,Emilia Romagna Grand Prix,2,2021
+14,ALO,alonso,alpine,10.0,Emilia Romagna Grand Prix,2,2021
+11,PER,perez,red_bull,11.0,Emilia Romagna Grand Prix,2,2021
+22,TSU,tsunoda,alphatauri,12.0,Emilia Romagna Grand Prix,2,2021
+7,RAI,raikkonen,alfa,13.0,Emilia Romagna Grand Prix,2,2021
+99,GIO,giovinazzi,alfa,14.0,Emilia Romagna Grand Prix,2,2021
+5,VET,vettel,aston_martin,15.0,Emilia Romagna Grand Prix,2,2021
+47,MSC,mick_schumacher,haas,16.0,Emilia Romagna Grand Prix,2,2021
+9,MAZ,mazepin,haas,17.0,Emilia Romagna Grand Prix,2,2021
+77,BOT,bottas,mercedes,18.0,Emilia Romagna Grand Prix,2,2021
+63,RUS,russell,williams,19.0,Emilia Romagna Grand Prix,2,2021
+6,LAT,latifi,williams,20.0,Emilia Romagna Grand Prix,2,2021
+44,HAM,hamilton,mercedes,1.0,Portuguese Grand Prix,3,2021
+33,VER,max_verstappen,red_bull,2.0,Portuguese Grand Prix,3,2021
+77,BOT,bottas,mercedes,3.0,Portuguese Grand Prix,3,2021
+11,PER,perez,red_bull,4.0,Portuguese Grand Prix,3,2021
+4,NOR,norris,mclaren,5.0,Portuguese Grand Prix,3,2021
+16,LEC,leclerc,ferrari,6.0,Portuguese Grand Prix,3,2021
+31,OCO,ocon,alpine,7.0,Portuguese Grand Prix,3,2021
+14,ALO,alonso,alpine,8.0,Portuguese Grand Prix,3,2021
+3,RIC,ricciardo,mclaren,9.0,Portuguese Grand Prix,3,2021
+10,GAS,gasly,alphatauri,10.0,Portuguese Grand Prix,3,2021
+55,SAI,sainz,ferrari,11.0,Portuguese Grand Prix,3,2021
+99,GIO,giovinazzi,alfa,12.0,Portuguese Grand Prix,3,2021
+5,VET,vettel,aston_martin,13.0,Portuguese Grand Prix,3,2021
+18,STR,stroll,aston_martin,14.0,Portuguese Grand Prix,3,2021
+22,TSU,tsunoda,alphatauri,15.0,Portuguese Grand Prix,3,2021
+63,RUS,russell,williams,16.0,Portuguese Grand Prix,3,2021
+47,MSC,mick_schumacher,haas,17.0,Portuguese Grand Prix,3,2021
+6,LAT,latifi,williams,18.0,Portuguese Grand Prix,3,2021
+9,MAZ,mazepin,haas,19.0,Portuguese Grand Prix,3,2021
+7,RAI,raikkonen,alfa,20.0,Portuguese Grand Prix,3,2021
+44,HAM,hamilton,mercedes,1.0,Spanish Grand Prix,4,2021
+33,VER,max_verstappen,red_bull,2.0,Spanish Grand Prix,4,2021
+77,BOT,bottas,mercedes,3.0,Spanish Grand Prix,4,2021
+16,LEC,leclerc,ferrari,4.0,Spanish Grand Prix,4,2021
+11,PER,perez,red_bull,5.0,Spanish Grand Prix,4,2021
+3,RIC,ricciardo,mclaren,6.0,Spanish Grand Prix,4,2021
+55,SAI,sainz,ferrari,7.0,Spanish Grand Prix,4,2021
+4,NOR,norris,mclaren,8.0,Spanish Grand Prix,4,2021
+31,OCO,ocon,alpine,9.0,Spanish Grand Prix,4,2021
+10,GAS,gasly,alphatauri,10.0,Spanish Grand Prix,4,2021
+18,STR,stroll,aston_martin,11.0,Spanish Grand Prix,4,2021
+7,RAI,raikkonen,alfa,12.0,Spanish Grand Prix,4,2021
+5,VET,vettel,aston_martin,13.0,Spanish Grand Prix,4,2021
+63,RUS,russell,williams,14.0,Spanish Grand Prix,4,2021
+99,GIO,giovinazzi,alfa,15.0,Spanish Grand Prix,4,2021
+6,LAT,latifi,williams,16.0,Spanish Grand Prix,4,2021
+14,ALO,alonso,alpine,17.0,Spanish Grand Prix,4,2021
+47,MSC,mick_schumacher,haas,18.0,Spanish Grand Prix,4,2021
+9,MAZ,mazepin,haas,19.0,Spanish Grand Prix,4,2021
+22,TSU,tsunoda,alphatauri,20.0,Spanish Grand Prix,4,2021
+33,VER,max_verstappen,red_bull,1.0,Monaco Grand Prix,5,2021
+55,SAI,sainz,ferrari,2.0,Monaco Grand Prix,5,2021
+4,NOR,norris,mclaren,3.0,Monaco Grand Prix,5,2021
+11,PER,perez,red_bull,4.0,Monaco Grand Prix,5,2021
+5,VET,vettel,aston_martin,5.0,Monaco Grand Prix,5,2021
+10,GAS,gasly,alphatauri,6.0,Monaco Grand Prix,5,2021
+44,HAM,hamilton,mercedes,7.0,Monaco Grand Prix,5,2021
+18,STR,stroll,aston_martin,8.0,Monaco Grand Prix,5,2021
+31,OCO,ocon,alpine,9.0,Monaco Grand Prix,5,2021
+99,GIO,giovinazzi,alfa,10.0,Monaco Grand Prix,5,2021
+7,RAI,raikkonen,alfa,11.0,Monaco Grand Prix,5,2021
+3,RIC,ricciardo,mclaren,12.0,Monaco Grand Prix,5,2021
+14,ALO,alonso,alpine,13.0,Monaco Grand Prix,5,2021
+63,RUS,russell,williams,14.0,Monaco Grand Prix,5,2021
+6,LAT,latifi,williams,15.0,Monaco Grand Prix,5,2021
+22,TSU,tsunoda,alphatauri,16.0,Monaco Grand Prix,5,2021
+9,MAZ,mazepin,haas,17.0,Monaco Grand Prix,5,2021
+47,MSC,mick_schumacher,haas,18.0,Monaco Grand Prix,5,2021
+77,BOT,bottas,mercedes,19.0,Monaco Grand Prix,5,2021
+16,LEC,leclerc,ferrari,20.0,Monaco Grand Prix,5,2021
+11,PER,perez,red_bull,1.0,Azerbaijan Grand Prix,6,2021
+5,VET,vettel,aston_martin,2.0,Azerbaijan Grand Prix,6,2021
+10,GAS,gasly,alphatauri,3.0,Azerbaijan Grand Prix,6,2021
+16,LEC,leclerc,ferrari,4.0,Azerbaijan Grand Prix,6,2021
+4,NOR,norris,mclaren,5.0,Azerbaijan Grand Prix,6,2021
+14,ALO,alonso,alpine,6.0,Azerbaijan Grand Prix,6,2021
+22,TSU,tsunoda,alphatauri,7.0,Azerbaijan Grand Prix,6,2021
+55,SAI,sainz,ferrari,8.0,Azerbaijan Grand Prix,6,2021
+3,RIC,ricciardo,mclaren,9.0,Azerbaijan Grand Prix,6,2021
+7,RAI,raikkonen,alfa,10.0,Azerbaijan Grand Prix,6,2021
+99,GIO,giovinazzi,alfa,11.0,Azerbaijan Grand Prix,6,2021
+77,BOT,bottas,mercedes,12.0,Azerbaijan Grand Prix,6,2021
+47,MSC,mick_schumacher,haas,13.0,Azerbaijan Grand Prix,6,2021
+9,MAZ,mazepin,haas,14.0,Azerbaijan Grand Prix,6,2021
+44,HAM,hamilton,mercedes,15.0,Azerbaijan Grand Prix,6,2021
+6,LAT,latifi,williams,16.0,Azerbaijan Grand Prix,6,2021
+63,RUS,russell,williams,17.0,Azerbaijan Grand Prix,6,2021
+33,VER,max_verstappen,red_bull,18.0,Azerbaijan Grand Prix,6,2021
+18,STR,stroll,aston_martin,19.0,Azerbaijan Grand Prix,6,2021
+31,OCO,ocon,alpine,20.0,Azerbaijan Grand Prix,6,2021
+33,VER,max_verstappen,red_bull,1.0,French Grand Prix,7,2021
+44,HAM,hamilton,mercedes,2.0,French Grand Prix,7,2021
+11,PER,perez,red_bull,3.0,French Grand Prix,7,2021
+77,BOT,bottas,mercedes,4.0,French Grand Prix,7,2021
+4,NOR,norris,mclaren,5.0,French Grand Prix,7,2021
+3,RIC,ricciardo,mclaren,6.0,French Grand Prix,7,2021
+10,GAS,gasly,alphatauri,7.0,French Grand Prix,7,2021
+14,ALO,alonso,alpine,8.0,French Grand Prix,7,2021
+5,VET,vettel,aston_martin,9.0,French Grand Prix,7,2021
+18,STR,stroll,aston_martin,10.0,French Grand Prix,7,2021
+55,SAI,sainz,ferrari,11.0,French Grand Prix,7,2021
+63,RUS,russell,williams,12.0,French Grand Prix,7,2021
+22,TSU,tsunoda,alphatauri,13.0,French Grand Prix,7,2021
+31,OCO,ocon,alpine,14.0,French Grand Prix,7,2021
+99,GIO,giovinazzi,alfa,15.0,French Grand Prix,7,2021
+16,LEC,leclerc,ferrari,16.0,French Grand Prix,7,2021
+7,RAI,raikkonen,alfa,17.0,French Grand Prix,7,2021
+6,LAT,latifi,williams,18.0,French Grand Prix,7,2021
+47,MSC,mick_schumacher,haas,19.0,French Grand Prix,7,2021
+9,MAZ,mazepin,haas,20.0,French Grand Prix,7,2021
+33,VER,max_verstappen,red_bull,1.0,Styrian Grand Prix,8,2021
+44,HAM,hamilton,mercedes,2.0,Styrian Grand Prix,8,2021
+77,BOT,bottas,mercedes,3.0,Styrian Grand Prix,8,2021
+11,PER,perez,red_bull,4.0,Styrian Grand Prix,8,2021
+4,NOR,norris,mclaren,5.0,Styrian Grand Prix,8,2021
+55,SAI,sainz,ferrari,6.0,Styrian Grand Prix,8,2021
+16,LEC,leclerc,ferrari,7.0,Styrian Grand Prix,8,2021
+18,STR,stroll,aston_martin,8.0,Styrian Grand Prix,8,2021
+14,ALO,alonso,alpine,9.0,Styrian Grand Prix,8,2021
+22,TSU,tsunoda,alphatauri,10.0,Styrian Grand Prix,8,2021
+7,RAI,raikkonen,alfa,11.0,Styrian Grand Prix,8,2021
+5,VET,vettel,aston_martin,12.0,Styrian Grand Prix,8,2021
+3,RIC,ricciardo,mclaren,13.0,Styrian Grand Prix,8,2021
+31,OCO,ocon,alpine,14.0,Styrian Grand Prix,8,2021
+99,GIO,giovinazzi,alfa,15.0,Styrian Grand Prix,8,2021
+47,MSC,mick_schumacher,haas,16.0,Styrian Grand Prix,8,2021
+6,LAT,latifi,williams,17.0,Styrian Grand Prix,8,2021
+9,MAZ,mazepin,haas,18.0,Styrian Grand Prix,8,2021
+63,RUS,russell,williams,19.0,Styrian Grand Prix,8,2021
+10,GAS,gasly,alphatauri,20.0,Styrian Grand Prix,8,2021
+33,VER,max_verstappen,red_bull,1.0,Austrian Grand Prix,9,2021
+77,BOT,bottas,mercedes,2.0,Austrian Grand Prix,9,2021
+4,NOR,norris,mclaren,3.0,Austrian Grand Prix,9,2021
+44,HAM,hamilton,mercedes,4.0,Austrian Grand Prix,9,2021
+55,SAI,sainz,ferrari,5.0,Austrian Grand Prix,9,2021
+11,PER,perez,red_bull,6.0,Austrian Grand Prix,9,2021
+3,RIC,ricciardo,mclaren,7.0,Austrian Grand Prix,9,2021
+16,LEC,leclerc,ferrari,8.0,Austrian Grand Prix,9,2021
+10,GAS,gasly,alphatauri,9.0,Austrian Grand Prix,9,2021
+14,ALO,alonso,alpine,10.0,Austrian Grand Prix,9,2021
+63,RUS,russell,williams,11.0,Austrian Grand Prix,9,2021
+22,TSU,tsunoda,alphatauri,12.0,Austrian Grand Prix,9,2021
+18,STR,stroll,aston_martin,13.0,Austrian Grand Prix,9,2021
+99,GIO,giovinazzi,alfa,14.0,Austrian Grand Prix,9,2021
+7,RAI,raikkonen,alfa,15.0,Austrian Grand Prix,9,2021
+6,LAT,latifi,williams,16.0,Austrian Grand Prix,9,2021
+5,VET,vettel,aston_martin,17.0,Austrian Grand Prix,9,2021
+47,MSC,mick_schumacher,haas,18.0,Austrian Grand Prix,9,2021
+9,MAZ,mazepin,haas,19.0,Austrian Grand Prix,9,2021
+31,OCO,ocon,alpine,20.0,Austrian Grand Prix,9,2021
+44,HAM,hamilton,mercedes,1.0,British Grand Prix,10,2021
+16,LEC,leclerc,ferrari,2.0,British Grand Prix,10,2021
+77,BOT,bottas,mercedes,3.0,British Grand Prix,10,2021
+4,NOR,norris,mclaren,4.0,British Grand Prix,10,2021
+3,RIC,ricciardo,mclaren,5.0,British Grand Prix,10,2021
+55,SAI,sainz,ferrari,6.0,British Grand Prix,10,2021
+14,ALO,alonso,alpine,7.0,British Grand Prix,10,2021
+18,STR,stroll,aston_martin,8.0,British Grand Prix,10,2021
+31,OCO,ocon,alpine,9.0,British Grand Prix,10,2021
+22,TSU,tsunoda,alphatauri,10.0,British Grand Prix,10,2021
+10,GAS,gasly,alphatauri,11.0,British Grand Prix,10,2021
+63,RUS,russell,williams,12.0,British Grand Prix,10,2021
+99,GIO,giovinazzi,alfa,13.0,British Grand Prix,10,2021
+6,LAT,latifi,williams,14.0,British Grand Prix,10,2021
+7,RAI,raikkonen,alfa,15.0,British Grand Prix,10,2021
+11,PER,perez,red_bull,16.0,British Grand Prix,10,2021
+9,MAZ,mazepin,haas,17.0,British Grand Prix,10,2021
+47,MSC,mick_schumacher,haas,18.0,British Grand Prix,10,2021
+5,VET,vettel,aston_martin,19.0,British Grand Prix,10,2021
+33,VER,max_verstappen,red_bull,20.0,British Grand Prix,10,2021
+31,OCO,ocon,alpine,1.0,Hungarian Grand Prix,11,2021
+44,HAM,hamilton,mercedes,2.0,Hungarian Grand Prix,11,2021
+55,SAI,sainz,ferrari,3.0,Hungarian Grand Prix,11,2021
+14,ALO,alonso,alpine,4.0,Hungarian Grand Prix,11,2021
+10,GAS,gasly,alphatauri,5.0,Hungarian Grand Prix,11,2021
+22,TSU,tsunoda,alphatauri,6.0,Hungarian Grand Prix,11,2021
+6,LAT,latifi,williams,7.0,Hungarian Grand Prix,11,2021
+63,RUS,russell,williams,8.0,Hungarian Grand Prix,11,2021
+33,VER,max_verstappen,red_bull,9.0,Hungarian Grand Prix,11,2021
+7,RAI,raikkonen,alfa,10.0,Hungarian Grand Prix,11,2021
+3,RIC,ricciardo,mclaren,11.0,Hungarian Grand Prix,11,2021
+47,MSC,mick_schumacher,haas,12.0,Hungarian Grand Prix,11,2021
+99,GIO,giovinazzi,alfa,13.0,Hungarian Grand Prix,11,2021
+9,MAZ,mazepin,haas,14.0,Hungarian Grand Prix,11,2021
+4,NOR,norris,mclaren,15.0,Hungarian Grand Prix,11,2021
+77,BOT,bottas,mercedes,16.0,Hungarian Grand Prix,11,2021
+11,PER,perez,red_bull,17.0,Hungarian Grand Prix,11,2021
+16,LEC,leclerc,ferrari,18.0,Hungarian Grand Prix,11,2021
+18,STR,stroll,aston_martin,19.0,Hungarian Grand Prix,11,2021
+5,VET,vettel,aston_martin,20.0,Hungarian Grand Prix,11,2021
+33,VER,max_verstappen,red_bull,1.0,Belgian Grand Prix,12,2021
+63,RUS,russell,williams,2.0,Belgian Grand Prix,12,2021
+44,HAM,hamilton,mercedes,3.0,Belgian Grand Prix,12,2021
+3,RIC,ricciardo,mclaren,4.0,Belgian Grand Prix,12,2021
+5,VET,vettel,aston_martin,5.0,Belgian Grand Prix,12,2021
+10,GAS,gasly,alphatauri,6.0,Belgian Grand Prix,12,2021
+31,OCO,ocon,alpine,7.0,Belgian Grand Prix,12,2021
+16,LEC,leclerc,ferrari,8.0,Belgian Grand Prix,12,2021
+6,LAT,latifi,williams,9.0,Belgian Grand Prix,12,2021
+55,SAI,sainz,ferrari,10.0,Belgian Grand Prix,12,2021
+14,ALO,alonso,alpine,11.0,Belgian Grand Prix,12,2021
+77,BOT,bottas,mercedes,12.0,Belgian Grand Prix,12,2021
+99,GIO,giovinazzi,alfa,13.0,Belgian Grand Prix,12,2021
+4,NOR,norris,mclaren,14.0,Belgian Grand Prix,12,2021
+22,TSU,tsunoda,alphatauri,15.0,Belgian Grand Prix,12,2021
+47,MSC,mick_schumacher,haas,16.0,Belgian Grand Prix,12,2021
+9,MAZ,mazepin,haas,17.0,Belgian Grand Prix,12,2021
+7,RAI,raikkonen,alfa,18.0,Belgian Grand Prix,12,2021
+11,PER,perez,red_bull,19.0,Belgian Grand Prix,12,2021
+18,STR,stroll,aston_martin,20.0,Belgian Grand Prix,12,2021
+33,VER,max_verstappen,red_bull,1.0,Dutch Grand Prix,13,2021
+44,HAM,hamilton,mercedes,2.0,Dutch Grand Prix,13,2021
+77,BOT,bottas,mercedes,3.0,Dutch Grand Prix,13,2021
+10,GAS,gasly,alphatauri,4.0,Dutch Grand Prix,13,2021
+16,LEC,leclerc,ferrari,5.0,Dutch Grand Prix,13,2021
+14,ALO,alonso,alpine,6.0,Dutch Grand Prix,13,2021
+55,SAI,sainz,ferrari,7.0,Dutch Grand Prix,13,2021
+11,PER,perez,red_bull,8.0,Dutch Grand Prix,13,2021
+31,OCO,ocon,alpine,9.0,Dutch Grand Prix,13,2021
+4,NOR,norris,mclaren,10.0,Dutch Grand Prix,13,2021
+3,RIC,ricciardo,mclaren,11.0,Dutch Grand Prix,13,2021
+18,STR,stroll,aston_martin,12.0,Dutch Grand Prix,13,2021
+5,VET,vettel,aston_martin,13.0,Dutch Grand Prix,13,2021
+99,GIO,giovinazzi,alfa,14.0,Dutch Grand Prix,13,2021
+88,KUB,kubica,alfa,15.0,Dutch Grand Prix,13,2021
+6,LAT,latifi,williams,16.0,Dutch Grand Prix,13,2021
+63,RUS,russell,williams,17.0,Dutch Grand Prix,13,2021
+47,MSC,mick_schumacher,haas,18.0,Dutch Grand Prix,13,2021
+22,TSU,tsunoda,alphatauri,19.0,Dutch Grand Prix,13,2021
+9,MAZ,mazepin,haas,20.0,Dutch Grand Prix,13,2021
+3,RIC,ricciardo,mclaren,1.0,Italian Grand Prix,14,2021
+4,NOR,norris,mclaren,2.0,Italian Grand Prix,14,2021
+77,BOT,bottas,mercedes,3.0,Italian Grand Prix,14,2021
+16,LEC,leclerc,ferrari,4.0,Italian Grand Prix,14,2021
+11,PER,perez,red_bull,5.0,Italian Grand Prix,14,2021
+55,SAI,sainz,ferrari,6.0,Italian Grand Prix,14,2021
+18,STR,stroll,aston_martin,7.0,Italian Grand Prix,14,2021
+14,ALO,alonso,alpine,8.0,Italian Grand Prix,14,2021
+63,RUS,russell,williams,9.0,Italian Grand Prix,14,2021
+31,OCO,ocon,alpine,10.0,Italian Grand Prix,14,2021
+6,LAT,latifi,williams,11.0,Italian Grand Prix,14,2021
+5,VET,vettel,aston_martin,12.0,Italian Grand Prix,14,2021
+99,GIO,giovinazzi,alfa,13.0,Italian Grand Prix,14,2021
+88,KUB,kubica,alfa,14.0,Italian Grand Prix,14,2021
+47,MSC,mick_schumacher,haas,15.0,Italian Grand Prix,14,2021
+9,MAZ,mazepin,haas,16.0,Italian Grand Prix,14,2021
+44,HAM,hamilton,mercedes,17.0,Italian Grand Prix,14,2021
+33,VER,max_verstappen,red_bull,18.0,Italian Grand Prix,14,2021
+10,GAS,gasly,alphatauri,19.0,Italian Grand Prix,14,2021
+22,TSU,tsunoda,alphatauri,20.0,Italian Grand Prix,14,2021
+44,HAM,hamilton,mercedes,1.0,Russian Grand Prix,15,2021
+33,VER,max_verstappen,red_bull,2.0,Russian Grand Prix,15,2021
+55,SAI,sainz,ferrari,3.0,Russian Grand Prix,15,2021
+3,RIC,ricciardo,mclaren,4.0,Russian Grand Prix,15,2021
+77,BOT,bottas,mercedes,5.0,Russian Grand Prix,15,2021
+14,ALO,alonso,alpine,6.0,Russian Grand Prix,15,2021
+4,NOR,norris,mclaren,7.0,Russian Grand Prix,15,2021
+7,RAI,raikkonen,alfa,8.0,Russian Grand Prix,15,2021
+11,PER,perez,red_bull,9.0,Russian Grand Prix,15,2021
+63,RUS,russell,williams,10.0,Russian Grand Prix,15,2021
+18,STR,stroll,aston_martin,11.0,Russian Grand Prix,15,2021
+5,VET,vettel,aston_martin,12.0,Russian Grand Prix,15,2021
+10,GAS,gasly,alphatauri,13.0,Russian Grand Prix,15,2021
+31,OCO,ocon,alpine,14.0,Russian Grand Prix,15,2021
+16,LEC,leclerc,ferrari,15.0,Russian Grand Prix,15,2021
+99,GIO,giovinazzi,alfa,16.0,Russian Grand Prix,15,2021
+22,TSU,tsunoda,alphatauri,17.0,Russian Grand Prix,15,2021
+9,MAZ,mazepin,haas,18.0,Russian Grand Prix,15,2021
+6,LAT,latifi,williams,19.0,Russian Grand Prix,15,2021
+47,MSC,mick_schumacher,haas,20.0,Russian Grand Prix,15,2021
+77,BOT,bottas,mercedes,1.0,Turkish Grand Prix,16,2021
+33,VER,max_verstappen,red_bull,2.0,Turkish Grand Prix,16,2021
+11,PER,perez,red_bull,3.0,Turkish Grand Prix,16,2021
+16,LEC,leclerc,ferrari,4.0,Turkish Grand Prix,16,2021
+44,HAM,hamilton,mercedes,5.0,Turkish Grand Prix,16,2021
+10,GAS,gasly,alphatauri,6.0,Turkish Grand Prix,16,2021
+4,NOR,norris,mclaren,7.0,Turkish Grand Prix,16,2021
+55,SAI,sainz,ferrari,8.0,Turkish Grand Prix,16,2021
+18,STR,stroll,aston_martin,9.0,Turkish Grand Prix,16,2021
+31,OCO,ocon,alpine,10.0,Turkish Grand Prix,16,2021
+99,GIO,giovinazzi,alfa,11.0,Turkish Grand Prix,16,2021
+7,RAI,raikkonen,alfa,12.0,Turkish Grand Prix,16,2021
+3,RIC,ricciardo,mclaren,13.0,Turkish Grand Prix,16,2021
+22,TSU,tsunoda,alphatauri,14.0,Turkish Grand Prix,16,2021
+63,RUS,russell,williams,15.0,Turkish Grand Prix,16,2021
+14,ALO,alonso,alpine,16.0,Turkish Grand Prix,16,2021
+6,LAT,latifi,williams,17.0,Turkish Grand Prix,16,2021
+5,VET,vettel,aston_martin,18.0,Turkish Grand Prix,16,2021
+47,MSC,mick_schumacher,haas,19.0,Turkish Grand Prix,16,2021
+9,MAZ,mazepin,haas,20.0,Turkish Grand Prix,16,2021
+33,VER,max_verstappen,red_bull,1.0,United States Grand Prix,17,2021
+44,HAM,hamilton,mercedes,2.0,United States Grand Prix,17,2021
+11,PER,perez,red_bull,3.0,United States Grand Prix,17,2021
+16,LEC,leclerc,ferrari,4.0,United States Grand Prix,17,2021
+3,RIC,ricciardo,mclaren,5.0,United States Grand Prix,17,2021
+77,BOT,bottas,mercedes,6.0,United States Grand Prix,17,2021
+55,SAI,sainz,ferrari,7.0,United States Grand Prix,17,2021
+4,NOR,norris,mclaren,8.0,United States Grand Prix,17,2021
+22,TSU,tsunoda,alphatauri,9.0,United States Grand Prix,17,2021
+5,VET,vettel,aston_martin,10.0,United States Grand Prix,17,2021
+99,GIO,giovinazzi,alfa,11.0,United States Grand Prix,17,2021
+18,STR,stroll,aston_martin,12.0,United States Grand Prix,17,2021
+7,RAI,raikkonen,alfa,13.0,United States Grand Prix,17,2021
+63,RUS,russell,williams,14.0,United States Grand Prix,17,2021
+6,LAT,latifi,williams,15.0,United States Grand Prix,17,2021
+47,MSC,mick_schumacher,haas,16.0,United States Grand Prix,17,2021
+9,MAZ,mazepin,haas,17.0,United States Grand Prix,17,2021
+14,ALO,alonso,alpine,18.0,United States Grand Prix,17,2021
+31,OCO,ocon,alpine,19.0,United States Grand Prix,17,2021
+10,GAS,gasly,alphatauri,20.0,United States Grand Prix,17,2021
+33,VER,max_verstappen,red_bull,1.0,Mexico City Grand Prix,18,2021
+44,HAM,hamilton,mercedes,2.0,Mexico City Grand Prix,18,2021
+11,PER,perez,red_bull,3.0,Mexico City Grand Prix,18,2021
+10,GAS,gasly,alphatauri,4.0,Mexico City Grand Prix,18,2021
+16,LEC,leclerc,ferrari,5.0,Mexico City Grand Prix,18,2021
+55,SAI,sainz,ferrari,6.0,Mexico City Grand Prix,18,2021
+5,VET,vettel,aston_martin,7.0,Mexico City Grand Prix,18,2021
+7,RAI,raikkonen,alfa,8.0,Mexico City Grand Prix,18,2021
+14,ALO,alonso,alpine,9.0,Mexico City Grand Prix,18,2021
+4,NOR,norris,mclaren,10.0,Mexico City Grand Prix,18,2021
+99,GIO,giovinazzi,alfa,11.0,Mexico City Grand Prix,18,2021
+3,RIC,ricciardo,mclaren,12.0,Mexico City Grand Prix,18,2021
+31,OCO,ocon,alpine,13.0,Mexico City Grand Prix,18,2021
+18,STR,stroll,aston_martin,14.0,Mexico City Grand Prix,18,2021
+77,BOT,bottas,mercedes,15.0,Mexico City Grand Prix,18,2021
+63,RUS,russell,williams,16.0,Mexico City Grand Prix,18,2021
+6,LAT,latifi,williams,17.0,Mexico City Grand Prix,18,2021
+9,MAZ,mazepin,haas,18.0,Mexico City Grand Prix,18,2021
+47,MSC,mick_schumacher,haas,19.0,Mexico City Grand Prix,18,2021
+22,TSU,tsunoda,alphatauri,20.0,Mexico City Grand Prix,18,2021
+44,HAM,hamilton,mercedes,1.0,São Paulo Grand Prix,19,2021
+33,VER,max_verstappen,red_bull,2.0,São Paulo Grand Prix,19,2021
+77,BOT,bottas,mercedes,3.0,São Paulo Grand Prix,19,2021
+11,PER,perez,red_bull,4.0,São Paulo Grand Prix,19,2021
+16,LEC,leclerc,ferrari,5.0,São Paulo Grand Prix,19,2021
+55,SAI,sainz,ferrari,6.0,São Paulo Grand Prix,19,2021
+10,GAS,gasly,alphatauri,7.0,São Paulo Grand Prix,19,2021
+31,OCO,ocon,alpine,8.0,São Paulo Grand Prix,19,2021
+14,ALO,alonso,alpine,9.0,São Paulo Grand Prix,19,2021
+4,NOR,norris,mclaren,10.0,São Paulo Grand Prix,19,2021
+5,VET,vettel,aston_martin,11.0,São Paulo Grand Prix,19,2021
+7,RAI,raikkonen,alfa,12.0,São Paulo Grand Prix,19,2021
+63,RUS,russell,williams,13.0,São Paulo Grand Prix,19,2021
+99,GIO,giovinazzi,alfa,14.0,São Paulo Grand Prix,19,2021
+22,TSU,tsunoda,alphatauri,15.0,São Paulo Grand Prix,19,2021
+6,LAT,latifi,williams,16.0,São Paulo Grand Prix,19,2021
+9,MAZ,mazepin,haas,17.0,São Paulo Grand Prix,19,2021
+47,MSC,mick_schumacher,haas,18.0,São Paulo Grand Prix,19,2021
+3,RIC,ricciardo,mclaren,19.0,São Paulo Grand Prix,19,2021
+18,STR,stroll,aston_martin,20.0,São Paulo Grand Prix,19,2021
+44,HAM,hamilton,mercedes,1.0,Qatar Grand Prix,20,2021
+33,VER,max_verstappen,red_bull,2.0,Qatar Grand Prix,20,2021
+14,ALO,alonso,alpine,3.0,Qatar Grand Prix,20,2021
+11,PER,perez,red_bull,4.0,Qatar Grand Prix,20,2021
+31,OCO,ocon,alpine,5.0,Qatar Grand Prix,20,2021
+18,STR,stroll,aston_martin,6.0,Qatar Grand Prix,20,2021
+55,SAI,sainz,ferrari,7.0,Qatar Grand Prix,20,2021
+16,LEC,leclerc,ferrari,8.0,Qatar Grand Prix,20,2021
+4,NOR,norris,mclaren,9.0,Qatar Grand Prix,20,2021
+5,VET,vettel,aston_martin,10.0,Qatar Grand Prix,20,2021
+10,GAS,gasly,alphatauri,11.0,Qatar Grand Prix,20,2021
+3,RIC,ricciardo,mclaren,12.0,Qatar Grand Prix,20,2021
+22,TSU,tsunoda,alphatauri,13.0,Qatar Grand Prix,20,2021
+7,RAI,raikkonen,alfa,14.0,Qatar Grand Prix,20,2021
+99,GIO,giovinazzi,alfa,15.0,Qatar Grand Prix,20,2021
+47,MSC,mick_schumacher,haas,16.0,Qatar Grand Prix,20,2021
+63,RUS,russell,williams,17.0,Qatar Grand Prix,20,2021
+9,MAZ,mazepin,haas,18.0,Qatar Grand Prix,20,2021
+6,LAT,latifi,williams,19.0,Qatar Grand Prix,20,2021
+77,BOT,bottas,mercedes,20.0,Qatar Grand Prix,20,2021
+44,HAM,hamilton,mercedes,1.0,Saudi Arabian Grand Prix,21,2021
+33,VER,max_verstappen,red_bull,2.0,Saudi Arabian Grand Prix,21,2021
+77,BOT,bottas,mercedes,3.0,Saudi Arabian Grand Prix,21,2021
+31,OCO,ocon,alpine,4.0,Saudi Arabian Grand Prix,21,2021
+3,RIC,ricciardo,mclaren,5.0,Saudi Arabian Grand Prix,21,2021
+10,GAS,gasly,alphatauri,6.0,Saudi Arabian Grand Prix,21,2021
+16,LEC,leclerc,ferrari,7.0,Saudi Arabian Grand Prix,21,2021
+55,SAI,sainz,ferrari,8.0,Saudi Arabian Grand Prix,21,2021
+99,GIO,giovinazzi,alfa,9.0,Saudi Arabian Grand Prix,21,2021
+4,NOR,norris,mclaren,10.0,Saudi Arabian Grand Prix,21,2021
+18,STR,stroll,aston_martin,11.0,Saudi Arabian Grand Prix,21,2021
+6,LAT,latifi,williams,12.0,Saudi Arabian Grand Prix,21,2021
+14,ALO,alonso,alpine,13.0,Saudi Arabian Grand Prix,21,2021
+22,TSU,tsunoda,alphatauri,14.0,Saudi Arabian Grand Prix,21,2021
+7,RAI,raikkonen,alfa,15.0,Saudi Arabian Grand Prix,21,2021
+5,VET,vettel,aston_martin,16.0,Saudi Arabian Grand Prix,21,2021
+11,PER,perez,red_bull,17.0,Saudi Arabian Grand Prix,21,2021
+9,MAZ,mazepin,haas,18.0,Saudi Arabian Grand Prix,21,2021
+63,RUS,russell,williams,19.0,Saudi Arabian Grand Prix,21,2021
+47,MSC,mick_schumacher,haas,20.0,Saudi Arabian Grand Prix,21,2021
+33,VER,max_verstappen,red_bull,1.0,Abu Dhabi Grand Prix,22,2021
+44,HAM,hamilton,mercedes,2.0,Abu Dhabi Grand Prix,22,2021
+55,SAI,sainz,ferrari,3.0,Abu Dhabi Grand Prix,22,2021
+22,TSU,tsunoda,alphatauri,4.0,Abu Dhabi Grand Prix,22,2021
+10,GAS,gasly,alphatauri,5.0,Abu Dhabi Grand Prix,22,2021
+77,BOT,bottas,mercedes,6.0,Abu Dhabi Grand Prix,22,2021
+4,NOR,norris,mclaren,7.0,Abu Dhabi Grand Prix,22,2021
+14,ALO,alonso,alpine,8.0,Abu Dhabi Grand Prix,22,2021
+31,OCO,ocon,alpine,9.0,Abu Dhabi Grand Prix,22,2021
+16,LEC,leclerc,ferrari,10.0,Abu Dhabi Grand Prix,22,2021
+5,VET,vettel,aston_martin,11.0,Abu Dhabi Grand Prix,22,2021
+3,RIC,ricciardo,mclaren,12.0,Abu Dhabi Grand Prix,22,2021
+18,STR,stroll,aston_martin,13.0,Abu Dhabi Grand Prix,22,2021
+47,MSC,mick_schumacher,haas,14.0,Abu Dhabi Grand Prix,22,2021
+11,PER,perez,red_bull,15.0,Abu Dhabi Grand Prix,22,2021
+6,LAT,latifi,williams,16.0,Abu Dhabi Grand Prix,22,2021
+99,GIO,giovinazzi,alfa,17.0,Abu Dhabi Grand Prix,22,2021
+63,RUS,russell,williams,18.0,Abu Dhabi Grand Prix,22,2021
+7,RAI,raikkonen,alfa,19.0,Abu Dhabi Grand Prix,22,2021
+9,MAZ,mazepin,haas,,Abu Dhabi Grand Prix,22,2021

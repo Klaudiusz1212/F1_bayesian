@@ -1,0 +1,421 @@
+DriverNumber,Abbreviation,DriverId,TeamId,Position,EventName,Round,Season
+16,LEC,leclerc,ferrari,1.0,Bahrain Grand Prix,1,2022
+55,SAI,sainz,ferrari,2.0,Bahrain Grand Prix,1,2022
+44,HAM,hamilton,mercedes,3.0,Bahrain Grand Prix,1,2022
+63,RUS,russell,mercedes,4.0,Bahrain Grand Prix,1,2022
+20,MAG,kevin_magnussen,haas,5.0,Bahrain Grand Prix,1,2022
+77,BOT,bottas,alfa,6.0,Bahrain Grand Prix,1,2022
+31,OCO,ocon,alpine,7.0,Bahrain Grand Prix,1,2022
+22,TSU,tsunoda,alphatauri,8.0,Bahrain Grand Prix,1,2022
+14,ALO,alonso,alpine,9.0,Bahrain Grand Prix,1,2022
+24,ZHO,zhou,alfa,10.0,Bahrain Grand Prix,1,2022
+47,MSC,mick_schumacher,haas,11.0,Bahrain Grand Prix,1,2022
+18,STR,stroll,aston_martin,12.0,Bahrain Grand Prix,1,2022
+23,ALB,albon,williams,13.0,Bahrain Grand Prix,1,2022
+3,RIC,ricciardo,mclaren,14.0,Bahrain Grand Prix,1,2022
+4,NOR,norris,mclaren,15.0,Bahrain Grand Prix,1,2022
+6,LAT,latifi,williams,16.0,Bahrain Grand Prix,1,2022
+27,HUL,hulkenberg,aston_martin,17.0,Bahrain Grand Prix,1,2022
+11,PER,perez,red_bull,18.0,Bahrain Grand Prix,1,2022
+1,VER,max_verstappen,red_bull,19.0,Bahrain Grand Prix,1,2022
+10,GAS,gasly,alphatauri,20.0,Bahrain Grand Prix,1,2022
+1,VER,max_verstappen,red_bull,1.0,Saudi Arabian Grand Prix,2,2022
+16,LEC,leclerc,ferrari,2.0,Saudi Arabian Grand Prix,2,2022
+55,SAI,sainz,ferrari,3.0,Saudi Arabian Grand Prix,2,2022
+11,PER,perez,red_bull,4.0,Saudi Arabian Grand Prix,2,2022
+63,RUS,russell,mercedes,5.0,Saudi Arabian Grand Prix,2,2022
+31,OCO,ocon,alpine,6.0,Saudi Arabian Grand Prix,2,2022
+4,NOR,norris,mclaren,7.0,Saudi Arabian Grand Prix,2,2022
+10,GAS,gasly,alphatauri,8.0,Saudi Arabian Grand Prix,2,2022
+20,MAG,kevin_magnussen,haas,9.0,Saudi Arabian Grand Prix,2,2022
+44,HAM,hamilton,mercedes,10.0,Saudi Arabian Grand Prix,2,2022
+24,ZHO,zhou,alfa,11.0,Saudi Arabian Grand Prix,2,2022
+27,HUL,hulkenberg,aston_martin,12.0,Saudi Arabian Grand Prix,2,2022
+18,STR,stroll,aston_martin,13.0,Saudi Arabian Grand Prix,2,2022
+23,ALB,albon,williams,14.0,Saudi Arabian Grand Prix,2,2022
+77,BOT,bottas,alfa,15.0,Saudi Arabian Grand Prix,2,2022
+14,ALO,alonso,alpine,16.0,Saudi Arabian Grand Prix,2,2022
+3,RIC,ricciardo,mclaren,17.0,Saudi Arabian Grand Prix,2,2022
+6,LAT,latifi,williams,18.0,Saudi Arabian Grand Prix,2,2022
+22,TSU,tsunoda,alphatauri,19.0,Saudi Arabian Grand Prix,2,2022
+47,MSC,mick_schumacher,haas,,Saudi Arabian Grand Prix,2,2022
+16,LEC,leclerc,ferrari,1.0,Australian Grand Prix,3,2022
+11,PER,perez,red_bull,2.0,Australian Grand Prix,3,2022
+63,RUS,russell,mercedes,3.0,Australian Grand Prix,3,2022
+44,HAM,hamilton,mercedes,4.0,Australian Grand Prix,3,2022
+4,NOR,norris,mclaren,5.0,Australian Grand Prix,3,2022
+3,RIC,ricciardo,mclaren,6.0,Australian Grand Prix,3,2022
+31,OCO,ocon,alpine,7.0,Australian Grand Prix,3,2022
+77,BOT,bottas,alfa,8.0,Australian Grand Prix,3,2022
+10,GAS,gasly,alphatauri,9.0,Australian Grand Prix,3,2022
+23,ALB,albon,williams,10.0,Australian Grand Prix,3,2022
+24,ZHO,zhou,alfa,11.0,Australian Grand Prix,3,2022
+18,STR,stroll,aston_martin,12.0,Australian Grand Prix,3,2022
+47,MSC,mick_schumacher,haas,13.0,Australian Grand Prix,3,2022
+20,MAG,kevin_magnussen,haas,14.0,Australian Grand Prix,3,2022
+22,TSU,tsunoda,alphatauri,15.0,Australian Grand Prix,3,2022
+6,LAT,latifi,williams,16.0,Australian Grand Prix,3,2022
+14,ALO,alonso,alpine,17.0,Australian Grand Prix,3,2022
+1,VER,max_verstappen,red_bull,18.0,Australian Grand Prix,3,2022
+5,VET,vettel,aston_martin,19.0,Australian Grand Prix,3,2022
+55,SAI,sainz,ferrari,20.0,Australian Grand Prix,3,2022
+1,VER,max_verstappen,red_bull,1.0,Emilia Romagna Grand Prix,4,2022
+11,PER,perez,red_bull,2.0,Emilia Romagna Grand Prix,4,2022
+4,NOR,norris,mclaren,3.0,Emilia Romagna Grand Prix,4,2022
+63,RUS,russell,mercedes,4.0,Emilia Romagna Grand Prix,4,2022
+77,BOT,bottas,alfa,5.0,Emilia Romagna Grand Prix,4,2022
+16,LEC,leclerc,ferrari,6.0,Emilia Romagna Grand Prix,4,2022
+22,TSU,tsunoda,alphatauri,7.0,Emilia Romagna Grand Prix,4,2022
+5,VET,vettel,aston_martin,8.0,Emilia Romagna Grand Prix,4,2022
+20,MAG,kevin_magnussen,haas,9.0,Emilia Romagna Grand Prix,4,2022
+18,STR,stroll,aston_martin,10.0,Emilia Romagna Grand Prix,4,2022
+23,ALB,albon,williams,11.0,Emilia Romagna Grand Prix,4,2022
+10,GAS,gasly,alphatauri,12.0,Emilia Romagna Grand Prix,4,2022
+44,HAM,hamilton,mercedes,13.0,Emilia Romagna Grand Prix,4,2022
+31,OCO,ocon,alpine,14.0,Emilia Romagna Grand Prix,4,2022
+24,ZHO,zhou,alfa,15.0,Emilia Romagna Grand Prix,4,2022
+6,LAT,latifi,williams,16.0,Emilia Romagna Grand Prix,4,2022
+47,MSC,mick_schumacher,haas,17.0,Emilia Romagna Grand Prix,4,2022
+3,RIC,ricciardo,mclaren,18.0,Emilia Romagna Grand Prix,4,2022
+14,ALO,alonso,alpine,19.0,Emilia Romagna Grand Prix,4,2022
+55,SAI,sainz,ferrari,20.0,Emilia Romagna Grand Prix,4,2022
+1,VER,max_verstappen,red_bull,1.0,Miami Grand Prix,5,2022
+16,LEC,leclerc,ferrari,2.0,Miami Grand Prix,5,2022
+55,SAI,sainz,ferrari,3.0,Miami Grand Prix,5,2022
+11,PER,perez,red_bull,4.0,Miami Grand Prix,5,2022
+63,RUS,russell,mercedes,5.0,Miami Grand Prix,5,2022
+44,HAM,hamilton,mercedes,6.0,Miami Grand Prix,5,2022
+77,BOT,bottas,alfa,7.0,Miami Grand Prix,5,2022
+31,OCO,ocon,alpine,8.0,Miami Grand Prix,5,2022
+23,ALB,albon,williams,9.0,Miami Grand Prix,5,2022
+18,STR,stroll,aston_martin,10.0,Miami Grand Prix,5,2022
+14,ALO,alonso,alpine,11.0,Miami Grand Prix,5,2022
+22,TSU,tsunoda,alphatauri,12.0,Miami Grand Prix,5,2022
+3,RIC,ricciardo,mclaren,13.0,Miami Grand Prix,5,2022
+6,LAT,latifi,williams,14.0,Miami Grand Prix,5,2022
+47,MSC,mick_schumacher,haas,15.0,Miami Grand Prix,5,2022
+20,MAG,kevin_magnussen,haas,16.0,Miami Grand Prix,5,2022
+5,VET,vettel,aston_martin,17.0,Miami Grand Prix,5,2022
+10,GAS,gasly,alphatauri,18.0,Miami Grand Prix,5,2022
+4,NOR,norris,mclaren,19.0,Miami Grand Prix,5,2022
+24,ZHO,zhou,alfa,20.0,Miami Grand Prix,5,2022
+1,VER,max_verstappen,red_bull,1.0,Spanish Grand Prix,6,2022
+11,PER,perez,red_bull,2.0,Spanish Grand Prix,6,2022
+63,RUS,russell,mercedes,3.0,Spanish Grand Prix,6,2022
+55,SAI,sainz,ferrari,4.0,Spanish Grand Prix,6,2022
+44,HAM,hamilton,mercedes,5.0,Spanish Grand Prix,6,2022
+77,BOT,bottas,alfa,6.0,Spanish Grand Prix,6,2022
+31,OCO,ocon,alpine,7.0,Spanish Grand Prix,6,2022
+4,NOR,norris,mclaren,8.0,Spanish Grand Prix,6,2022
+14,ALO,alonso,alpine,9.0,Spanish Grand Prix,6,2022
+22,TSU,tsunoda,alphatauri,10.0,Spanish Grand Prix,6,2022
+5,VET,vettel,aston_martin,11.0,Spanish Grand Prix,6,2022
+3,RIC,ricciardo,mclaren,12.0,Spanish Grand Prix,6,2022
+10,GAS,gasly,alphatauri,13.0,Spanish Grand Prix,6,2022
+47,MSC,mick_schumacher,haas,14.0,Spanish Grand Prix,6,2022
+18,STR,stroll,aston_martin,15.0,Spanish Grand Prix,6,2022
+6,LAT,latifi,williams,16.0,Spanish Grand Prix,6,2022
+20,MAG,kevin_magnussen,haas,17.0,Spanish Grand Prix,6,2022
+23,ALB,albon,williams,18.0,Spanish Grand Prix,6,2022
+24,ZHO,zhou,alfa,19.0,Spanish Grand Prix,6,2022
+16,LEC,leclerc,ferrari,20.0,Spanish Grand Prix,6,2022
+11,PER,perez,red_bull,1.0,Monaco Grand Prix,7,2022
+55,SAI,sainz,ferrari,2.0,Monaco Grand Prix,7,2022
+1,VER,max_verstappen,red_bull,3.0,Monaco Grand Prix,7,2022
+16,LEC,leclerc,ferrari,4.0,Monaco Grand Prix,7,2022
+63,RUS,russell,mercedes,5.0,Monaco Grand Prix,7,2022
+4,NOR,norris,mclaren,6.0,Monaco Grand Prix,7,2022
+14,ALO,alonso,alpine,7.0,Monaco Grand Prix,7,2022
+44,HAM,hamilton,mercedes,8.0,Monaco Grand Prix,7,2022
+77,BOT,bottas,alfa,9.0,Monaco Grand Prix,7,2022
+5,VET,vettel,aston_martin,10.0,Monaco Grand Prix,7,2022
+10,GAS,gasly,alphatauri,11.0,Monaco Grand Prix,7,2022
+31,OCO,ocon,alpine,12.0,Monaco Grand Prix,7,2022
+3,RIC,ricciardo,mclaren,13.0,Monaco Grand Prix,7,2022
+18,STR,stroll,aston_martin,14.0,Monaco Grand Prix,7,2022
+6,LAT,latifi,williams,15.0,Monaco Grand Prix,7,2022
+24,ZHO,zhou,alfa,16.0,Monaco Grand Prix,7,2022
+22,TSU,tsunoda,alphatauri,17.0,Monaco Grand Prix,7,2022
+23,ALB,albon,williams,18.0,Monaco Grand Prix,7,2022
+47,MSC,mick_schumacher,haas,19.0,Monaco Grand Prix,7,2022
+20,MAG,kevin_magnussen,haas,20.0,Monaco Grand Prix,7,2022
+1,VER,max_verstappen,red_bull,1.0,Azerbaijan Grand Prix,8,2022
+11,PER,perez,red_bull,2.0,Azerbaijan Grand Prix,8,2022
+63,RUS,russell,mercedes,3.0,Azerbaijan Grand Prix,8,2022
+44,HAM,hamilton,mercedes,4.0,Azerbaijan Grand Prix,8,2022
+10,GAS,gasly,alphatauri,5.0,Azerbaijan Grand Prix,8,2022
+5,VET,vettel,aston_martin,6.0,Azerbaijan Grand Prix,8,2022
+14,ALO,alonso,alpine,7.0,Azerbaijan Grand Prix,8,2022
+3,RIC,ricciardo,mclaren,8.0,Azerbaijan Grand Prix,8,2022
+4,NOR,norris,mclaren,9.0,Azerbaijan Grand Prix,8,2022
+31,OCO,ocon,alpine,10.0,Azerbaijan Grand Prix,8,2022
+77,BOT,bottas,alfa,11.0,Azerbaijan Grand Prix,8,2022
+23,ALB,albon,williams,12.0,Azerbaijan Grand Prix,8,2022
+22,TSU,tsunoda,alphatauri,13.0,Azerbaijan Grand Prix,8,2022
+47,MSC,mick_schumacher,haas,14.0,Azerbaijan Grand Prix,8,2022
+6,LAT,latifi,williams,15.0,Azerbaijan Grand Prix,8,2022
+18,STR,stroll,aston_martin,16.0,Azerbaijan Grand Prix,8,2022
+20,MAG,kevin_magnussen,haas,17.0,Azerbaijan Grand Prix,8,2022
+24,ZHO,zhou,alfa,18.0,Azerbaijan Grand Prix,8,2022
+16,LEC,leclerc,ferrari,19.0,Azerbaijan Grand Prix,8,2022
+55,SAI,sainz,ferrari,20.0,Azerbaijan Grand Prix,8,2022
+1,VER,max_verstappen,red_bull,1.0,Canadian Grand Prix,9,2022
+55,SAI,sainz,ferrari,2.0,Canadian Grand Prix,9,2022
+44,HAM,hamilton,mercedes,3.0,Canadian Grand Prix,9,2022
+63,RUS,russell,mercedes,4.0,Canadian Grand Prix,9,2022
+16,LEC,leclerc,ferrari,5.0,Canadian Grand Prix,9,2022
+31,OCO,ocon,alpine,6.0,Canadian Grand Prix,9,2022
+77,BOT,bottas,alfa,7.0,Canadian Grand Prix,9,2022
+24,ZHO,zhou,alfa,8.0,Canadian Grand Prix,9,2022
+14,ALO,alonso,alpine,9.0,Canadian Grand Prix,9,2022
+18,STR,stroll,aston_martin,10.0,Canadian Grand Prix,9,2022
+3,RIC,ricciardo,mclaren,11.0,Canadian Grand Prix,9,2022
+5,VET,vettel,aston_martin,12.0,Canadian Grand Prix,9,2022
+23,ALB,albon,williams,13.0,Canadian Grand Prix,9,2022
+10,GAS,gasly,alphatauri,14.0,Canadian Grand Prix,9,2022
+4,NOR,norris,mclaren,15.0,Canadian Grand Prix,9,2022
+6,LAT,latifi,williams,16.0,Canadian Grand Prix,9,2022
+20,MAG,kevin_magnussen,haas,17.0,Canadian Grand Prix,9,2022
+22,TSU,tsunoda,alphatauri,18.0,Canadian Grand Prix,9,2022
+47,MSC,mick_schumacher,haas,19.0,Canadian Grand Prix,9,2022
+11,PER,perez,red_bull,20.0,Canadian Grand Prix,9,2022
+55,SAI,sainz,ferrari,1.0,British Grand Prix,10,2022
+11,PER,perez,red_bull,2.0,British Grand Prix,10,2022
+44,HAM,hamilton,mercedes,3.0,British Grand Prix,10,2022
+16,LEC,leclerc,ferrari,4.0,British Grand Prix,10,2022
+14,ALO,alonso,alpine,5.0,British Grand Prix,10,2022
+4,NOR,norris,mclaren,6.0,British Grand Prix,10,2022
+1,VER,max_verstappen,red_bull,7.0,British Grand Prix,10,2022
+47,MSC,mick_schumacher,haas,8.0,British Grand Prix,10,2022
+5,VET,vettel,aston_martin,9.0,British Grand Prix,10,2022
+20,MAG,kevin_magnussen,haas,10.0,British Grand Prix,10,2022
+18,STR,stroll,aston_martin,11.0,British Grand Prix,10,2022
+6,LAT,latifi,williams,12.0,British Grand Prix,10,2022
+3,RIC,ricciardo,mclaren,13.0,British Grand Prix,10,2022
+22,TSU,tsunoda,alphatauri,14.0,British Grand Prix,10,2022
+31,OCO,ocon,alpine,15.0,British Grand Prix,10,2022
+10,GAS,gasly,alphatauri,16.0,British Grand Prix,10,2022
+77,BOT,bottas,alfa,17.0,British Grand Prix,10,2022
+63,RUS,russell,mercedes,18.0,British Grand Prix,10,2022
+24,ZHO,zhou,alfa,19.0,British Grand Prix,10,2022
+23,ALB,albon,williams,20.0,British Grand Prix,10,2022
+16,LEC,leclerc,ferrari,1.0,Austrian Grand Prix,11,2022
+1,VER,max_verstappen,red_bull,2.0,Austrian Grand Prix,11,2022
+44,HAM,hamilton,mercedes,3.0,Austrian Grand Prix,11,2022
+63,RUS,russell,mercedes,4.0,Austrian Grand Prix,11,2022
+31,OCO,ocon,alpine,5.0,Austrian Grand Prix,11,2022
+47,MSC,mick_schumacher,haas,6.0,Austrian Grand Prix,11,2022
+4,NOR,norris,mclaren,7.0,Austrian Grand Prix,11,2022
+20,MAG,kevin_magnussen,haas,8.0,Austrian Grand Prix,11,2022
+3,RIC,ricciardo,mclaren,9.0,Austrian Grand Prix,11,2022
+14,ALO,alonso,alpine,10.0,Austrian Grand Prix,11,2022
+77,BOT,bottas,alfa,11.0,Austrian Grand Prix,11,2022
+23,ALB,albon,williams,12.0,Austrian Grand Prix,11,2022
+18,STR,stroll,aston_martin,13.0,Austrian Grand Prix,11,2022
+24,ZHO,zhou,alfa,14.0,Austrian Grand Prix,11,2022
+10,GAS,gasly,alphatauri,15.0,Austrian Grand Prix,11,2022
+22,TSU,tsunoda,alphatauri,16.0,Austrian Grand Prix,11,2022
+5,VET,vettel,aston_martin,17.0,Austrian Grand Prix,11,2022
+55,SAI,sainz,ferrari,18.0,Austrian Grand Prix,11,2022
+6,LAT,latifi,williams,19.0,Austrian Grand Prix,11,2022
+11,PER,perez,red_bull,20.0,Austrian Grand Prix,11,2022
+1,VER,max_verstappen,red_bull,1.0,French Grand Prix,12,2022
+44,HAM,hamilton,mercedes,2.0,French Grand Prix,12,2022
+63,RUS,russell,mercedes,3.0,French Grand Prix,12,2022
+11,PER,perez,red_bull,4.0,French Grand Prix,12,2022
+55,SAI,sainz,ferrari,5.0,French Grand Prix,12,2022
+14,ALO,alonso,alpine,6.0,French Grand Prix,12,2022
+4,NOR,norris,mclaren,7.0,French Grand Prix,12,2022
+31,OCO,ocon,alpine,8.0,French Grand Prix,12,2022
+3,RIC,ricciardo,mclaren,9.0,French Grand Prix,12,2022
+18,STR,stroll,aston_martin,10.0,French Grand Prix,12,2022
+5,VET,vettel,aston_martin,11.0,French Grand Prix,12,2022
+10,GAS,gasly,alphatauri,12.0,French Grand Prix,12,2022
+23,ALB,albon,williams,13.0,French Grand Prix,12,2022
+77,BOT,bottas,alfa,14.0,French Grand Prix,12,2022
+47,MSC,mick_schumacher,haas,15.0,French Grand Prix,12,2022
+24,ZHO,zhou,alfa,16.0,French Grand Prix,12,2022
+6,LAT,latifi,williams,17.0,French Grand Prix,12,2022
+20,MAG,kevin_magnussen,haas,18.0,French Grand Prix,12,2022
+16,LEC,leclerc,ferrari,19.0,French Grand Prix,12,2022
+22,TSU,tsunoda,alphatauri,20.0,French Grand Prix,12,2022
+1,VER,max_verstappen,red_bull,1.0,Hungarian Grand Prix,13,2022
+44,HAM,hamilton,mercedes,2.0,Hungarian Grand Prix,13,2022
+63,RUS,russell,mercedes,3.0,Hungarian Grand Prix,13,2022
+55,SAI,sainz,ferrari,4.0,Hungarian Grand Prix,13,2022
+11,PER,perez,red_bull,5.0,Hungarian Grand Prix,13,2022
+16,LEC,leclerc,ferrari,6.0,Hungarian Grand Prix,13,2022
+4,NOR,norris,mclaren,7.0,Hungarian Grand Prix,13,2022
+14,ALO,alonso,alpine,8.0,Hungarian Grand Prix,13,2022
+31,OCO,ocon,alpine,9.0,Hungarian Grand Prix,13,2022
+5,VET,vettel,aston_martin,10.0,Hungarian Grand Prix,13,2022
+18,STR,stroll,aston_martin,11.0,Hungarian Grand Prix,13,2022
+10,GAS,gasly,alphatauri,12.0,Hungarian Grand Prix,13,2022
+24,ZHO,zhou,alfa,13.0,Hungarian Grand Prix,13,2022
+47,MSC,mick_schumacher,haas,14.0,Hungarian Grand Prix,13,2022
+3,RIC,ricciardo,mclaren,15.0,Hungarian Grand Prix,13,2022
+20,MAG,kevin_magnussen,haas,16.0,Hungarian Grand Prix,13,2022
+23,ALB,albon,williams,17.0,Hungarian Grand Prix,13,2022
+6,LAT,latifi,williams,18.0,Hungarian Grand Prix,13,2022
+22,TSU,tsunoda,alphatauri,19.0,Hungarian Grand Prix,13,2022
+77,BOT,bottas,alfa,20.0,Hungarian Grand Prix,13,2022
+1,VER,max_verstappen,red_bull,1.0,Belgian Grand Prix,14,2022
+11,PER,perez,red_bull,2.0,Belgian Grand Prix,14,2022
+55,SAI,sainz,ferrari,3.0,Belgian Grand Prix,14,2022
+63,RUS,russell,mercedes,4.0,Belgian Grand Prix,14,2022
+14,ALO,alonso,alpine,5.0,Belgian Grand Prix,14,2022
+16,LEC,leclerc,ferrari,6.0,Belgian Grand Prix,14,2022
+31,OCO,ocon,alpine,7.0,Belgian Grand Prix,14,2022
+5,VET,vettel,aston_martin,8.0,Belgian Grand Prix,14,2022
+10,GAS,gasly,alphatauri,9.0,Belgian Grand Prix,14,2022
+23,ALB,albon,williams,10.0,Belgian Grand Prix,14,2022
+18,STR,stroll,aston_martin,11.0,Belgian Grand Prix,14,2022
+4,NOR,norris,mclaren,12.0,Belgian Grand Prix,14,2022
+22,TSU,tsunoda,alphatauri,13.0,Belgian Grand Prix,14,2022
+24,ZHO,zhou,alfa,14.0,Belgian Grand Prix,14,2022
+3,RIC,ricciardo,mclaren,15.0,Belgian Grand Prix,14,2022
+20,MAG,kevin_magnussen,haas,16.0,Belgian Grand Prix,14,2022
+47,MSC,mick_schumacher,haas,17.0,Belgian Grand Prix,14,2022
+6,LAT,latifi,williams,18.0,Belgian Grand Prix,14,2022
+77,BOT,bottas,alfa,19.0,Belgian Grand Prix,14,2022
+44,HAM,hamilton,mercedes,20.0,Belgian Grand Prix,14,2022
+1,VER,max_verstappen,red_bull,1.0,Dutch Grand Prix,15,2022
+63,RUS,russell,mercedes,2.0,Dutch Grand Prix,15,2022
+16,LEC,leclerc,ferrari,3.0,Dutch Grand Prix,15,2022
+44,HAM,hamilton,mercedes,4.0,Dutch Grand Prix,15,2022
+11,PER,perez,red_bull,5.0,Dutch Grand Prix,15,2022
+14,ALO,alonso,alpine,6.0,Dutch Grand Prix,15,2022
+4,NOR,norris,mclaren,7.0,Dutch Grand Prix,15,2022
+55,SAI,sainz,ferrari,8.0,Dutch Grand Prix,15,2022
+31,OCO,ocon,alpine,9.0,Dutch Grand Prix,15,2022
+18,STR,stroll,aston_martin,10.0,Dutch Grand Prix,15,2022
+10,GAS,gasly,alphatauri,11.0,Dutch Grand Prix,15,2022
+23,ALB,albon,williams,12.0,Dutch Grand Prix,15,2022
+47,MSC,mick_schumacher,haas,13.0,Dutch Grand Prix,15,2022
+5,VET,vettel,aston_martin,14.0,Dutch Grand Prix,15,2022
+20,MAG,kevin_magnussen,haas,15.0,Dutch Grand Prix,15,2022
+24,ZHO,zhou,alfa,16.0,Dutch Grand Prix,15,2022
+3,RIC,ricciardo,mclaren,17.0,Dutch Grand Prix,15,2022
+6,LAT,latifi,williams,18.0,Dutch Grand Prix,15,2022
+77,BOT,bottas,alfa,19.0,Dutch Grand Prix,15,2022
+22,TSU,tsunoda,alphatauri,20.0,Dutch Grand Prix,15,2022
+1,VER,max_verstappen,red_bull,1.0,Italian Grand Prix,16,2022
+16,LEC,leclerc,ferrari,2.0,Italian Grand Prix,16,2022
+63,RUS,russell,mercedes,3.0,Italian Grand Prix,16,2022
+55,SAI,sainz,ferrari,4.0,Italian Grand Prix,16,2022
+44,HAM,hamilton,mercedes,5.0,Italian Grand Prix,16,2022
+11,PER,perez,red_bull,6.0,Italian Grand Prix,16,2022
+4,NOR,norris,mclaren,7.0,Italian Grand Prix,16,2022
+10,GAS,gasly,alphatauri,8.0,Italian Grand Prix,16,2022
+45,DEV,de_vries,williams,9.0,Italian Grand Prix,16,2022
+24,ZHO,zhou,alfa,10.0,Italian Grand Prix,16,2022
+31,OCO,ocon,alpine,11.0,Italian Grand Prix,16,2022
+47,MSC,mick_schumacher,haas,12.0,Italian Grand Prix,16,2022
+77,BOT,bottas,alfa,13.0,Italian Grand Prix,16,2022
+22,TSU,tsunoda,alphatauri,14.0,Italian Grand Prix,16,2022
+6,LAT,latifi,williams,15.0,Italian Grand Prix,16,2022
+20,MAG,kevin_magnussen,haas,16.0,Italian Grand Prix,16,2022
+3,RIC,ricciardo,mclaren,17.0,Italian Grand Prix,16,2022
+18,STR,stroll,aston_martin,18.0,Italian Grand Prix,16,2022
+14,ALO,alonso,alpine,19.0,Italian Grand Prix,16,2022
+5,VET,vettel,aston_martin,20.0,Italian Grand Prix,16,2022
+11,PER,perez,red_bull,1.0,Singapore Grand Prix,17,2022
+16,LEC,leclerc,ferrari,2.0,Singapore Grand Prix,17,2022
+55,SAI,sainz,ferrari,3.0,Singapore Grand Prix,17,2022
+4,NOR,norris,mclaren,4.0,Singapore Grand Prix,17,2022
+3,RIC,ricciardo,mclaren,5.0,Singapore Grand Prix,17,2022
+18,STR,stroll,aston_martin,6.0,Singapore Grand Prix,17,2022
+1,VER,max_verstappen,red_bull,7.0,Singapore Grand Prix,17,2022
+5,VET,vettel,aston_martin,8.0,Singapore Grand Prix,17,2022
+44,HAM,hamilton,mercedes,9.0,Singapore Grand Prix,17,2022
+10,GAS,gasly,alphatauri,10.0,Singapore Grand Prix,17,2022
+77,BOT,bottas,alfa,11.0,Singapore Grand Prix,17,2022
+20,MAG,kevin_magnussen,haas,12.0,Singapore Grand Prix,17,2022
+47,MSC,mick_schumacher,haas,13.0,Singapore Grand Prix,17,2022
+63,RUS,russell,mercedes,14.0,Singapore Grand Prix,17,2022
+22,TSU,tsunoda,alphatauri,15.0,Singapore Grand Prix,17,2022
+31,OCO,ocon,alpine,16.0,Singapore Grand Prix,17,2022
+23,ALB,albon,williams,17.0,Singapore Grand Prix,17,2022
+14,ALO,alonso,alpine,18.0,Singapore Grand Prix,17,2022
+6,LAT,latifi,williams,19.0,Singapore Grand Prix,17,2022
+24,ZHO,zhou,alfa,20.0,Singapore Grand Prix,17,2022
+1,VER,max_verstappen,red_bull,1.0,Japanese Grand Prix,18,2022
+11,PER,perez,red_bull,2.0,Japanese Grand Prix,18,2022
+16,LEC,leclerc,ferrari,3.0,Japanese Grand Prix,18,2022
+31,OCO,ocon,alpine,4.0,Japanese Grand Prix,18,2022
+44,HAM,hamilton,mercedes,5.0,Japanese Grand Prix,18,2022
+5,VET,vettel,aston_martin,6.0,Japanese Grand Prix,18,2022
+14,ALO,alonso,alpine,7.0,Japanese Grand Prix,18,2022
+63,RUS,russell,mercedes,8.0,Japanese Grand Prix,18,2022
+6,LAT,latifi,williams,9.0,Japanese Grand Prix,18,2022
+4,NOR,norris,mclaren,10.0,Japanese Grand Prix,18,2022
+3,RIC,ricciardo,mclaren,11.0,Japanese Grand Prix,18,2022
+18,STR,stroll,aston_martin,12.0,Japanese Grand Prix,18,2022
+22,TSU,tsunoda,alphatauri,13.0,Japanese Grand Prix,18,2022
+20,MAG,kevin_magnussen,haas,14.0,Japanese Grand Prix,18,2022
+77,BOT,bottas,alfa,15.0,Japanese Grand Prix,18,2022
+24,ZHO,zhou,alfa,16.0,Japanese Grand Prix,18,2022
+47,MSC,mick_schumacher,haas,17.0,Japanese Grand Prix,18,2022
+10,GAS,gasly,alphatauri,18.0,Japanese Grand Prix,18,2022
+55,SAI,sainz,ferrari,19.0,Japanese Grand Prix,18,2022
+23,ALB,albon,williams,20.0,Japanese Grand Prix,18,2022
+1,VER,max_verstappen,red_bull,1.0,United States Grand Prix,19,2022
+44,HAM,hamilton,mercedes,2.0,United States Grand Prix,19,2022
+16,LEC,leclerc,ferrari,3.0,United States Grand Prix,19,2022
+11,PER,perez,red_bull,4.0,United States Grand Prix,19,2022
+63,RUS,russell,mercedes,5.0,United States Grand Prix,19,2022
+4,NOR,norris,mclaren,6.0,United States Grand Prix,19,2022
+14,ALO,alonso,alpine,7.0,United States Grand Prix,19,2022
+5,VET,vettel,aston_martin,8.0,United States Grand Prix,19,2022
+20,MAG,kevin_magnussen,haas,9.0,United States Grand Prix,19,2022
+22,TSU,tsunoda,alphatauri,10.0,United States Grand Prix,19,2022
+31,OCO,ocon,alpine,11.0,United States Grand Prix,19,2022
+24,ZHO,zhou,alfa,12.0,United States Grand Prix,19,2022
+23,ALB,albon,williams,13.0,United States Grand Prix,19,2022
+10,GAS,gasly,alphatauri,14.0,United States Grand Prix,19,2022
+47,MSC,mick_schumacher,haas,15.0,United States Grand Prix,19,2022
+3,RIC,ricciardo,mclaren,16.0,United States Grand Prix,19,2022
+6,LAT,latifi,williams,17.0,United States Grand Prix,19,2022
+18,STR,stroll,aston_martin,18.0,United States Grand Prix,19,2022
+77,BOT,bottas,alfa,19.0,United States Grand Prix,19,2022
+55,SAI,sainz,ferrari,20.0,United States Grand Prix,19,2022
+1,VER,max_verstappen,red_bull,1.0,Mexico City Grand Prix,20,2022
+44,HAM,hamilton,mercedes,2.0,Mexico City Grand Prix,20,2022
+11,PER,perez,red_bull,3.0,Mexico City Grand Prix,20,2022
+63,RUS,russell,mercedes,4.0,Mexico City Grand Prix,20,2022
+55,SAI,sainz,ferrari,5.0,Mexico City Grand Prix,20,2022
+16,LEC,leclerc,ferrari,6.0,Mexico City Grand Prix,20,2022
+3,RIC,ricciardo,mclaren,7.0,Mexico City Grand Prix,20,2022
+31,OCO,ocon,alpine,8.0,Mexico City Grand Prix,20,2022
+4,NOR,norris,mclaren,9.0,Mexico City Grand Prix,20,2022
+77,BOT,bottas,alfa,10.0,Mexico City Grand Prix,20,2022
+10,GAS,gasly,alphatauri,11.0,Mexico City Grand Prix,20,2022
+23,ALB,albon,williams,12.0,Mexico City Grand Prix,20,2022
+24,ZHO,zhou,alfa,13.0,Mexico City Grand Prix,20,2022
+5,VET,vettel,aston_martin,14.0,Mexico City Grand Prix,20,2022
+18,STR,stroll,aston_martin,15.0,Mexico City Grand Prix,20,2022
+47,MSC,mick_schumacher,haas,16.0,Mexico City Grand Prix,20,2022
+20,MAG,kevin_magnussen,haas,17.0,Mexico City Grand Prix,20,2022
+6,LAT,latifi,williams,18.0,Mexico City Grand Prix,20,2022
+14,ALO,alonso,alpine,19.0,Mexico City Grand Prix,20,2022
+22,TSU,tsunoda,alphatauri,20.0,Mexico City Grand Prix,20,2022
+63,RUS,russell,mercedes,1.0,São Paulo Grand Prix,21,2022
+44,HAM,hamilton,mercedes,2.0,São Paulo Grand Prix,21,2022
+55,SAI,sainz,ferrari,3.0,São Paulo Grand Prix,21,2022
+16,LEC,leclerc,ferrari,4.0,São Paulo Grand Prix,21,2022
+14,ALO,alonso,alpine,5.0,São Paulo Grand Prix,21,2022
+1,VER,max_verstappen,red_bull,6.0,São Paulo Grand Prix,21,2022
+11,PER,perez,red_bull,7.0,São Paulo Grand Prix,21,2022
+31,OCO,ocon,alpine,8.0,São Paulo Grand Prix,21,2022
+77,BOT,bottas,alfa,9.0,São Paulo Grand Prix,21,2022
+18,STR,stroll,aston_martin,10.0,São Paulo Grand Prix,21,2022
+5,VET,vettel,aston_martin,11.0,São Paulo Grand Prix,21,2022
+24,ZHO,zhou,alfa,12.0,São Paulo Grand Prix,21,2022
+47,MSC,mick_schumacher,haas,13.0,São Paulo Grand Prix,21,2022
+10,GAS,gasly,alphatauri,14.0,São Paulo Grand Prix,21,2022
+23,ALB,albon,williams,15.0,São Paulo Grand Prix,21,2022
+6,LAT,latifi,williams,16.0,São Paulo Grand Prix,21,2022
+22,TSU,tsunoda,alphatauri,17.0,São Paulo Grand Prix,21,2022
+4,NOR,norris,mclaren,18.0,São Paulo Grand Prix,21,2022
+20,MAG,kevin_magnussen,haas,19.0,São Paulo Grand Prix,21,2022
+3,RIC,ricciardo,mclaren,20.0,São Paulo Grand Prix,21,2022
