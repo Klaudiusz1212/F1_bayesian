@@ -20,7 +20,7 @@ This project uses Stan for Bayesian modeling. To run Stan models in this reposit
 
    ```bash
    docker run -p 8888:8888 \
-     --mount type=bind,source=$(pwd)/stan,target=/workspace \
+     --mount type=bind,source=./stan,target=/workspace \
      -d --name stan_F1 iszagh/cmdstan_python
    ```
 

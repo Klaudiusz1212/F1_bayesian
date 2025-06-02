@@ -1,0 +1,341 @@
+DriverNumber,Abbreviation,DriverId,TeamId,Position,EventName,Round,Season
+77,BOT,bottas,mercedes,1.0,Austrian Grand Prix,1,2020
+16,LEC,leclerc,ferrari,2.0,Austrian Grand Prix,1,2020
+4,NOR,norris,mclaren,3.0,Austrian Grand Prix,1,2020
+44,HAM,hamilton,mercedes,4.0,Austrian Grand Prix,1,2020
+55,SAI,sainz,mclaren,5.0,Austrian Grand Prix,1,2020
+11,PER,perez,racing_point,6.0,Austrian Grand Prix,1,2020
+10,GAS,gasly,alphatauri,7.0,Austrian Grand Prix,1,2020
+31,OCO,ocon,renault,8.0,Austrian Grand Prix,1,2020
+99,GIO,giovinazzi,alfa,9.0,Austrian Grand Prix,1,2020
+5,VET,vettel,ferrari,10.0,Austrian Grand Prix,1,2020
+6,LAT,latifi,williams,11.0,Austrian Grand Prix,1,2020
+26,KVY,kvyat,alphatauri,12.0,Austrian Grand Prix,1,2020
+23,ALB,albon,red_bull,13.0,Austrian Grand Prix,1,2020
+7,RAI,raikkonen,alfa,14.0,Austrian Grand Prix,1,2020
+63,RUS,russell,williams,15.0,Austrian Grand Prix,1,2020
+8,GRO,grosjean,haas,16.0,Austrian Grand Prix,1,2020
+20,MAG,kevin_magnussen,haas,17.0,Austrian Grand Prix,1,2020
+18,STR,stroll,racing_point,18.0,Austrian Grand Prix,1,2020
+3,RIC,ricciardo,renault,19.0,Austrian Grand Prix,1,2020
+33,VER,max_verstappen,red_bull,20.0,Austrian Grand Prix,1,2020
+44,HAM,hamilton,mercedes,1.0,Styrian Grand Prix,2,2020
+77,BOT,bottas,mercedes,2.0,Styrian Grand Prix,2,2020
+33,VER,max_verstappen,red_bull,3.0,Styrian Grand Prix,2,2020
+23,ALB,albon,red_bull,4.0,Styrian Grand Prix,2,2020
+4,NOR,norris,mclaren,5.0,Styrian Grand Prix,2,2020
+11,PER,perez,racing_point,6.0,Styrian Grand Prix,2,2020
+18,STR,stroll,racing_point,7.0,Styrian Grand Prix,2,2020
+3,RIC,ricciardo,renault,8.0,Styrian Grand Prix,2,2020
+55,SAI,sainz,mclaren,9.0,Styrian Grand Prix,2,2020
+26,KVY,kvyat,alphatauri,10.0,Styrian Grand Prix,2,2020
+7,RAI,raikkonen,alfa,11.0,Styrian Grand Prix,2,2020
+20,MAG,kevin_magnussen,haas,12.0,Styrian Grand Prix,2,2020
+8,GRO,grosjean,haas,13.0,Styrian Grand Prix,2,2020
+99,GIO,giovinazzi,alfa,14.0,Styrian Grand Prix,2,2020
+10,GAS,gasly,alphatauri,15.0,Styrian Grand Prix,2,2020
+63,RUS,russell,williams,16.0,Styrian Grand Prix,2,2020
+6,LAT,latifi,williams,17.0,Styrian Grand Prix,2,2020
+31,OCO,ocon,renault,18.0,Styrian Grand Prix,2,2020
+16,LEC,leclerc,ferrari,19.0,Styrian Grand Prix,2,2020
+5,VET,vettel,ferrari,20.0,Styrian Grand Prix,2,2020
+44,HAM,hamilton,mercedes,1.0,Hungarian Grand Prix,3,2020
+33,VER,max_verstappen,red_bull,2.0,Hungarian Grand Prix,3,2020
+77,BOT,bottas,mercedes,3.0,Hungarian Grand Prix,3,2020
+18,STR,stroll,racing_point,4.0,Hungarian Grand Prix,3,2020
+23,ALB,albon,red_bull,5.0,Hungarian Grand Prix,3,2020
+5,VET,vettel,ferrari,6.0,Hungarian Grand Prix,3,2020
+11,PER,perez,racing_point,7.0,Hungarian Grand Prix,3,2020
+3,RIC,ricciardo,renault,8.0,Hungarian Grand Prix,3,2020
+55,SAI,sainz,mclaren,9.0,Hungarian Grand Prix,3,2020
+20,MAG,kevin_magnussen,haas,10.0,Hungarian Grand Prix,3,2020
+16,LEC,leclerc,ferrari,11.0,Hungarian Grand Prix,3,2020
+26,KVY,kvyat,alphatauri,12.0,Hungarian Grand Prix,3,2020
+4,NOR,norris,mclaren,13.0,Hungarian Grand Prix,3,2020
+31,OCO,ocon,renault,14.0,Hungarian Grand Prix,3,2020
+7,RAI,raikkonen,alfa,15.0,Hungarian Grand Prix,3,2020
+8,GRO,grosjean,haas,16.0,Hungarian Grand Prix,3,2020
+99,GIO,giovinazzi,alfa,17.0,Hungarian Grand Prix,3,2020
+63,RUS,russell,williams,18.0,Hungarian Grand Prix,3,2020
+6,LAT,latifi,williams,19.0,Hungarian Grand Prix,3,2020
+10,GAS,gasly,alphatauri,20.0,Hungarian Grand Prix,3,2020
+44,HAM,hamilton,mercedes,1.0,British Grand Prix,4,2020
+33,VER,max_verstappen,red_bull,2.0,British Grand Prix,4,2020
+16,LEC,leclerc,ferrari,3.0,British Grand Prix,4,2020
+3,RIC,ricciardo,renault,4.0,British Grand Prix,4,2020
+4,NOR,norris,mclaren,5.0,British Grand Prix,4,2020
+31,OCO,ocon,renault,6.0,British Grand Prix,4,2020
+10,GAS,gasly,alphatauri,7.0,British Grand Prix,4,2020
+23,ALB,albon,red_bull,8.0,British Grand Prix,4,2020
+18,STR,stroll,racing_point,9.0,British Grand Prix,4,2020
+5,VET,vettel,ferrari,10.0,British Grand Prix,4,2020
+77,BOT,bottas,mercedes,11.0,British Grand Prix,4,2020
+63,RUS,russell,williams,12.0,British Grand Prix,4,2020
+55,SAI,sainz,mclaren,13.0,British Grand Prix,4,2020
+99,GIO,giovinazzi,alfa,14.0,British Grand Prix,4,2020
+6,LAT,latifi,williams,15.0,British Grand Prix,4,2020
+8,GRO,grosjean,haas,16.0,British Grand Prix,4,2020
+7,RAI,raikkonen,alfa,17.0,British Grand Prix,4,2020
+26,KVY,kvyat,alphatauri,18.0,British Grand Prix,4,2020
+20,MAG,kevin_magnussen,haas,19.0,British Grand Prix,4,2020
+27,HUL,hulkenberg,racing_point,20.0,British Grand Prix,4,2020
+33,VER,max_verstappen,red_bull,1.0,70th Anniversary Grand Prix,5,2020
+44,HAM,hamilton,mercedes,2.0,70th Anniversary Grand Prix,5,2020
+77,BOT,bottas,mercedes,3.0,70th Anniversary Grand Prix,5,2020
+16,LEC,leclerc,ferrari,4.0,70th Anniversary Grand Prix,5,2020
+23,ALB,albon,red_bull,5.0,70th Anniversary Grand Prix,5,2020
+18,STR,stroll,racing_point,6.0,70th Anniversary Grand Prix,5,2020
+27,HUL,hulkenberg,racing_point,7.0,70th Anniversary Grand Prix,5,2020
+31,OCO,ocon,renault,8.0,70th Anniversary Grand Prix,5,2020
+4,NOR,norris,mclaren,9.0,70th Anniversary Grand Prix,5,2020
+26,KVY,kvyat,alphatauri,10.0,70th Anniversary Grand Prix,5,2020
+10,GAS,gasly,alphatauri,11.0,70th Anniversary Grand Prix,5,2020
+5,VET,vettel,ferrari,12.0,70th Anniversary Grand Prix,5,2020
+55,SAI,sainz,mclaren,13.0,70th Anniversary Grand Prix,5,2020
+3,RIC,ricciardo,renault,14.0,70th Anniversary Grand Prix,5,2020
+7,RAI,raikkonen,alfa,15.0,70th Anniversary Grand Prix,5,2020
+8,GRO,grosjean,haas,16.0,70th Anniversary Grand Prix,5,2020
+99,GIO,giovinazzi,alfa,17.0,70th Anniversary Grand Prix,5,2020
+63,RUS,russell,williams,18.0,70th Anniversary Grand Prix,5,2020
+6,LAT,latifi,williams,19.0,70th Anniversary Grand Prix,5,2020
+20,MAG,kevin_magnussen,haas,20.0,70th Anniversary Grand Prix,5,2020
+44,HAM,hamilton,mercedes,1.0,Spanish Grand Prix,6,2020
+33,VER,max_verstappen,red_bull,2.0,Spanish Grand Prix,6,2020
+77,BOT,bottas,mercedes,3.0,Spanish Grand Prix,6,2020
+18,STR,stroll,racing_point,4.0,Spanish Grand Prix,6,2020
+11,PER,perez,racing_point,5.0,Spanish Grand Prix,6,2020
+55,SAI,sainz,mclaren,6.0,Spanish Grand Prix,6,2020
+5,VET,vettel,ferrari,7.0,Spanish Grand Prix,6,2020
+23,ALB,albon,red_bull,8.0,Spanish Grand Prix,6,2020
+10,GAS,gasly,alphatauri,9.0,Spanish Grand Prix,6,2020
+4,NOR,norris,mclaren,10.0,Spanish Grand Prix,6,2020
+3,RIC,ricciardo,renault,11.0,Spanish Grand Prix,6,2020
+26,KVY,kvyat,alphatauri,12.0,Spanish Grand Prix,6,2020
+31,OCO,ocon,renault,13.0,Spanish Grand Prix,6,2020
+7,RAI,raikkonen,alfa,14.0,Spanish Grand Prix,6,2020
+20,MAG,kevin_magnussen,haas,15.0,Spanish Grand Prix,6,2020
+99,GIO,giovinazzi,alfa,16.0,Spanish Grand Prix,6,2020
+63,RUS,russell,williams,17.0,Spanish Grand Prix,6,2020
+6,LAT,latifi,williams,18.0,Spanish Grand Prix,6,2020
+8,GRO,grosjean,haas,19.0,Spanish Grand Prix,6,2020
+16,LEC,leclerc,ferrari,20.0,Spanish Grand Prix,6,2020
+44,HAM,hamilton,mercedes,1.0,Belgian Grand Prix,7,2020
+77,BOT,bottas,mercedes,2.0,Belgian Grand Prix,7,2020
+33,VER,max_verstappen,red_bull,3.0,Belgian Grand Prix,7,2020
+3,RIC,ricciardo,renault,4.0,Belgian Grand Prix,7,2020
+31,OCO,ocon,renault,5.0,Belgian Grand Prix,7,2020
+23,ALB,albon,red_bull,6.0,Belgian Grand Prix,7,2020
+4,NOR,norris,mclaren,7.0,Belgian Grand Prix,7,2020
+10,GAS,gasly,alphatauri,8.0,Belgian Grand Prix,7,2020
+18,STR,stroll,racing_point,9.0,Belgian Grand Prix,7,2020
+11,PER,perez,racing_point,10.0,Belgian Grand Prix,7,2020
+26,KVY,kvyat,alphatauri,11.0,Belgian Grand Prix,7,2020
+7,RAI,raikkonen,alfa,12.0,Belgian Grand Prix,7,2020
+5,VET,vettel,ferrari,13.0,Belgian Grand Prix,7,2020
+16,LEC,leclerc,ferrari,14.0,Belgian Grand Prix,7,2020
+8,GRO,grosjean,haas,15.0,Belgian Grand Prix,7,2020
+6,LAT,latifi,williams,16.0,Belgian Grand Prix,7,2020
+20,MAG,kevin_magnussen,haas,17.0,Belgian Grand Prix,7,2020
+99,GIO,giovinazzi,alfa,18.0,Belgian Grand Prix,7,2020
+63,RUS,russell,williams,19.0,Belgian Grand Prix,7,2020
+55,SAI,sainz,mclaren,20.0,Belgian Grand Prix,7,2020
+10,GAS,gasly,alphatauri,1.0,Italian Grand Prix,8,2020
+55,SAI,sainz,mclaren,2.0,Italian Grand Prix,8,2020
+18,STR,stroll,racing_point,3.0,Italian Grand Prix,8,2020
+4,NOR,norris,mclaren,4.0,Italian Grand Prix,8,2020
+77,BOT,bottas,mercedes,5.0,Italian Grand Prix,8,2020
+3,RIC,ricciardo,renault,6.0,Italian Grand Prix,8,2020
+44,HAM,hamilton,mercedes,7.0,Italian Grand Prix,8,2020
+31,OCO,ocon,renault,8.0,Italian Grand Prix,8,2020
+26,KVY,kvyat,alphatauri,9.0,Italian Grand Prix,8,2020
+11,PER,perez,racing_point,10.0,Italian Grand Prix,8,2020
+6,LAT,latifi,williams,11.0,Italian Grand Prix,8,2020
+8,GRO,grosjean,haas,12.0,Italian Grand Prix,8,2020
+7,RAI,raikkonen,alfa,13.0,Italian Grand Prix,8,2020
+63,RUS,russell,williams,14.0,Italian Grand Prix,8,2020
+23,ALB,albon,red_bull,15.0,Italian Grand Prix,8,2020
+99,GIO,giovinazzi,alfa,16.0,Italian Grand Prix,8,2020
+33,VER,max_verstappen,red_bull,17.0,Italian Grand Prix,8,2020
+16,LEC,leclerc,ferrari,18.0,Italian Grand Prix,8,2020
+20,MAG,kevin_magnussen,haas,19.0,Italian Grand Prix,8,2020
+5,VET,vettel,ferrari,20.0,Italian Grand Prix,8,2020
+44,HAM,hamilton,mercedes,1.0,Tuscan Grand Prix,9,2020
+77,BOT,bottas,mercedes,2.0,Tuscan Grand Prix,9,2020
+23,ALB,albon,red_bull,3.0,Tuscan Grand Prix,9,2020
+3,RIC,ricciardo,renault,4.0,Tuscan Grand Prix,9,2020
+11,PER,perez,racing_point,5.0,Tuscan Grand Prix,9,2020
+4,NOR,norris,mclaren,6.0,Tuscan Grand Prix,9,2020
+26,KVY,kvyat,alphatauri,7.0,Tuscan Grand Prix,9,2020
+16,LEC,leclerc,ferrari,8.0,Tuscan Grand Prix,9,2020
+7,RAI,raikkonen,alfa,9.0,Tuscan Grand Prix,9,2020
+5,VET,vettel,ferrari,10.0,Tuscan Grand Prix,9,2020
+63,RUS,russell,williams,11.0,Tuscan Grand Prix,9,2020
+8,GRO,grosjean,haas,12.0,Tuscan Grand Prix,9,2020
+18,STR,stroll,racing_point,13.0,Tuscan Grand Prix,9,2020
+31,OCO,ocon,renault,14.0,Tuscan Grand Prix,9,2020
+6,LAT,latifi,williams,15.0,Tuscan Grand Prix,9,2020
+20,MAG,kevin_magnussen,haas,16.0,Tuscan Grand Prix,9,2020
+99,GIO,giovinazzi,alfa,17.0,Tuscan Grand Prix,9,2020
+55,SAI,sainz,mclaren,18.0,Tuscan Grand Prix,9,2020
+33,VER,max_verstappen,red_bull,19.0,Tuscan Grand Prix,9,2020
+10,GAS,gasly,alphatauri,20.0,Tuscan Grand Prix,9,2020
+77,BOT,bottas,mercedes,1.0,Russian Grand Prix,10,2020
+33,VER,max_verstappen,red_bull,2.0,Russian Grand Prix,10,2020
+44,HAM,hamilton,mercedes,3.0,Russian Grand Prix,10,2020
+11,PER,perez,racing_point,4.0,Russian Grand Prix,10,2020
+3,RIC,ricciardo,renault,5.0,Russian Grand Prix,10,2020
+16,LEC,leclerc,ferrari,6.0,Russian Grand Prix,10,2020
+31,OCO,ocon,renault,7.0,Russian Grand Prix,10,2020
+26,KVY,kvyat,alphatauri,8.0,Russian Grand Prix,10,2020
+10,GAS,gasly,alphatauri,9.0,Russian Grand Prix,10,2020
+23,ALB,albon,red_bull,10.0,Russian Grand Prix,10,2020
+99,GIO,giovinazzi,alfa,11.0,Russian Grand Prix,10,2020
+20,MAG,kevin_magnussen,haas,12.0,Russian Grand Prix,10,2020
+5,VET,vettel,ferrari,13.0,Russian Grand Prix,10,2020
+7,RAI,raikkonen,alfa,14.0,Russian Grand Prix,10,2020
+4,NOR,norris,mclaren,15.0,Russian Grand Prix,10,2020
+6,LAT,latifi,williams,16.0,Russian Grand Prix,10,2020
+8,GRO,grosjean,haas,17.0,Russian Grand Prix,10,2020
+63,RUS,russell,williams,18.0,Russian Grand Prix,10,2020
+55,SAI,sainz,mclaren,19.0,Russian Grand Prix,10,2020
+18,STR,stroll,racing_point,20.0,Russian Grand Prix,10,2020
+44,HAM,hamilton,mercedes,1.0,Eifel Grand Prix,11,2020
+33,VER,max_verstappen,red_bull,2.0,Eifel Grand Prix,11,2020
+3,RIC,ricciardo,renault,3.0,Eifel Grand Prix,11,2020
+11,PER,perez,racing_point,4.0,Eifel Grand Prix,11,2020
+55,SAI,sainz,mclaren,5.0,Eifel Grand Prix,11,2020
+10,GAS,gasly,alphatauri,6.0,Eifel Grand Prix,11,2020
+16,LEC,leclerc,ferrari,7.0,Eifel Grand Prix,11,2020
+27,HUL,hulkenberg,racing_point,8.0,Eifel Grand Prix,11,2020
+8,GRO,grosjean,haas,9.0,Eifel Grand Prix,11,2020
+99,GIO,giovinazzi,alfa,10.0,Eifel Grand Prix,11,2020
+5,VET,vettel,ferrari,11.0,Eifel Grand Prix,11,2020
+7,RAI,raikkonen,alfa,12.0,Eifel Grand Prix,11,2020
+20,MAG,kevin_magnussen,haas,13.0,Eifel Grand Prix,11,2020
+6,LAT,latifi,williams,14.0,Eifel Grand Prix,11,2020
+26,KVY,kvyat,alphatauri,15.0,Eifel Grand Prix,11,2020
+4,NOR,norris,mclaren,16.0,Eifel Grand Prix,11,2020
+23,ALB,albon,red_bull,17.0,Eifel Grand Prix,11,2020
+31,OCO,ocon,renault,18.0,Eifel Grand Prix,11,2020
+77,BOT,bottas,mercedes,19.0,Eifel Grand Prix,11,2020
+63,RUS,russell,williams,20.0,Eifel Grand Prix,11,2020
+44,HAM,hamilton,mercedes,1.0,Portuguese Grand Prix,12,2020
+77,BOT,bottas,mercedes,2.0,Portuguese Grand Prix,12,2020
+33,VER,max_verstappen,red_bull,3.0,Portuguese Grand Prix,12,2020
+16,LEC,leclerc,ferrari,4.0,Portuguese Grand Prix,12,2020
+10,GAS,gasly,alphatauri,5.0,Portuguese Grand Prix,12,2020
+55,SAI,sainz,mclaren,6.0,Portuguese Grand Prix,12,2020
+11,PER,perez,racing_point,7.0,Portuguese Grand Prix,12,2020
+31,OCO,ocon,renault,8.0,Portuguese Grand Prix,12,2020
+3,RIC,ricciardo,renault,9.0,Portuguese Grand Prix,12,2020
+5,VET,vettel,ferrari,10.0,Portuguese Grand Prix,12,2020
+7,RAI,raikkonen,alfa,11.0,Portuguese Grand Prix,12,2020
+23,ALB,albon,red_bull,12.0,Portuguese Grand Prix,12,2020
+4,NOR,norris,mclaren,13.0,Portuguese Grand Prix,12,2020
+63,RUS,russell,williams,14.0,Portuguese Grand Prix,12,2020
+99,GIO,giovinazzi,alfa,15.0,Portuguese Grand Prix,12,2020
+20,MAG,kevin_magnussen,haas,16.0,Portuguese Grand Prix,12,2020
+8,GRO,grosjean,haas,17.0,Portuguese Grand Prix,12,2020
+6,LAT,latifi,williams,18.0,Portuguese Grand Prix,12,2020
+26,KVY,kvyat,alphatauri,19.0,Portuguese Grand Prix,12,2020
+18,STR,stroll,racing_point,20.0,Portuguese Grand Prix,12,2020
+44,HAM,hamilton,mercedes,1.0,Emilia Romagna Grand Prix,13,2020
+77,BOT,bottas,mercedes,2.0,Emilia Romagna Grand Prix,13,2020
+3,RIC,ricciardo,renault,3.0,Emilia Romagna Grand Prix,13,2020
+26,KVY,kvyat,alphatauri,4.0,Emilia Romagna Grand Prix,13,2020
+16,LEC,leclerc,ferrari,5.0,Emilia Romagna Grand Prix,13,2020
+11,PER,perez,racing_point,6.0,Emilia Romagna Grand Prix,13,2020
+55,SAI,sainz,mclaren,7.0,Emilia Romagna Grand Prix,13,2020
+4,NOR,norris,mclaren,8.0,Emilia Romagna Grand Prix,13,2020
+7,RAI,raikkonen,alfa,9.0,Emilia Romagna Grand Prix,13,2020
+99,GIO,giovinazzi,alfa,10.0,Emilia Romagna Grand Prix,13,2020
+6,LAT,latifi,williams,11.0,Emilia Romagna Grand Prix,13,2020
+5,VET,vettel,ferrari,12.0,Emilia Romagna Grand Prix,13,2020
+18,STR,stroll,racing_point,13.0,Emilia Romagna Grand Prix,13,2020
+8,GRO,grosjean,haas,14.0,Emilia Romagna Grand Prix,13,2020
+23,ALB,albon,red_bull,15.0,Emilia Romagna Grand Prix,13,2020
+63,RUS,russell,williams,16.0,Emilia Romagna Grand Prix,13,2020
+33,VER,max_verstappen,red_bull,17.0,Emilia Romagna Grand Prix,13,2020
+20,MAG,kevin_magnussen,haas,18.0,Emilia Romagna Grand Prix,13,2020
+31,OCO,ocon,renault,19.0,Emilia Romagna Grand Prix,13,2020
+10,GAS,gasly,alphatauri,20.0,Emilia Romagna Grand Prix,13,2020
+44,HAM,hamilton,mercedes,1.0,Turkish Grand Prix,14,2020
+11,PER,perez,racing_point,2.0,Turkish Grand Prix,14,2020
+5,VET,vettel,ferrari,3.0,Turkish Grand Prix,14,2020
+16,LEC,leclerc,ferrari,4.0,Turkish Grand Prix,14,2020
+55,SAI,sainz,mclaren,5.0,Turkish Grand Prix,14,2020
+33,VER,max_verstappen,red_bull,6.0,Turkish Grand Prix,14,2020
+23,ALB,albon,red_bull,7.0,Turkish Grand Prix,14,2020
+4,NOR,norris,mclaren,8.0,Turkish Grand Prix,14,2020
+18,STR,stroll,racing_point,9.0,Turkish Grand Prix,14,2020
+3,RIC,ricciardo,renault,10.0,Turkish Grand Prix,14,2020
+31,OCO,ocon,renault,11.0,Turkish Grand Prix,14,2020
+26,KVY,kvyat,alphatauri,12.0,Turkish Grand Prix,14,2020
+10,GAS,gasly,alphatauri,13.0,Turkish Grand Prix,14,2020
+77,BOT,bottas,mercedes,14.0,Turkish Grand Prix,14,2020
+7,RAI,raikkonen,alfa,15.0,Turkish Grand Prix,14,2020
+63,RUS,russell,williams,16.0,Turkish Grand Prix,14,2020
+20,MAG,kevin_magnussen,haas,17.0,Turkish Grand Prix,14,2020
+8,GRO,grosjean,haas,18.0,Turkish Grand Prix,14,2020
+6,LAT,latifi,williams,19.0,Turkish Grand Prix,14,2020
+99,GIO,giovinazzi,alfa,20.0,Turkish Grand Prix,14,2020
+44,HAM,hamilton,mercedes,1.0,Bahrain Grand Prix,15,2020
+33,VER,max_verstappen,red_bull,2.0,Bahrain Grand Prix,15,2020
+23,ALB,albon,red_bull,3.0,Bahrain Grand Prix,15,2020
+4,NOR,norris,mclaren,4.0,Bahrain Grand Prix,15,2020
+55,SAI,sainz,mclaren,5.0,Bahrain Grand Prix,15,2020
+10,GAS,gasly,alphatauri,6.0,Bahrain Grand Prix,15,2020
+3,RIC,ricciardo,renault,7.0,Bahrain Grand Prix,15,2020
+77,BOT,bottas,mercedes,8.0,Bahrain Grand Prix,15,2020
+31,OCO,ocon,renault,9.0,Bahrain Grand Prix,15,2020
+16,LEC,leclerc,ferrari,10.0,Bahrain Grand Prix,15,2020
+26,KVY,kvyat,alphatauri,11.0,Bahrain Grand Prix,15,2020
+63,RUS,russell,williams,12.0,Bahrain Grand Prix,15,2020
+5,VET,vettel,ferrari,13.0,Bahrain Grand Prix,15,2020
+6,LAT,latifi,williams,14.0,Bahrain Grand Prix,15,2020
+7,RAI,raikkonen,alfa,15.0,Bahrain Grand Prix,15,2020
+99,GIO,giovinazzi,alfa,16.0,Bahrain Grand Prix,15,2020
+20,MAG,kevin_magnussen,haas,17.0,Bahrain Grand Prix,15,2020
+11,PER,perez,racing_point,18.0,Bahrain Grand Prix,15,2020
+18,STR,stroll,racing_point,19.0,Bahrain Grand Prix,15,2020
+8,GRO,grosjean,haas,20.0,Bahrain Grand Prix,15,2020
+11,PER,perez,racing_point,1.0,Sakhir Grand Prix,16,2020
+31,OCO,ocon,renault,2.0,Sakhir Grand Prix,16,2020
+18,STR,stroll,racing_point,3.0,Sakhir Grand Prix,16,2020
+55,SAI,sainz,mclaren,4.0,Sakhir Grand Prix,16,2020
+3,RIC,ricciardo,renault,5.0,Sakhir Grand Prix,16,2020
+23,ALB,albon,red_bull,6.0,Sakhir Grand Prix,16,2020
+26,KVY,kvyat,alphatauri,7.0,Sakhir Grand Prix,16,2020
+77,BOT,bottas,mercedes,8.0,Sakhir Grand Prix,16,2020
+63,RUS,russell,mercedes,9.0,Sakhir Grand Prix,16,2020
+4,NOR,norris,mclaren,10.0,Sakhir Grand Prix,16,2020
+10,GAS,gasly,alphatauri,11.0,Sakhir Grand Prix,16,2020
+5,VET,vettel,ferrari,12.0,Sakhir Grand Prix,16,2020
+99,GIO,giovinazzi,alfa,13.0,Sakhir Grand Prix,16,2020
+7,RAI,raikkonen,alfa,14.0,Sakhir Grand Prix,16,2020
+20,MAG,kevin_magnussen,haas,15.0,Sakhir Grand Prix,16,2020
+89,AIT,aitken,williams,16.0,Sakhir Grand Prix,16,2020
+51,FIT,pietro_fittipaldi,haas,17.0,Sakhir Grand Prix,16,2020
+6,LAT,latifi,williams,18.0,Sakhir Grand Prix,16,2020
+33,VER,max_verstappen,red_bull,19.0,Sakhir Grand Prix,16,2020
+16,LEC,leclerc,ferrari,20.0,Sakhir Grand Prix,16,2020
+33,VER,max_verstappen,red_bull,1.0,Abu Dhabi Grand Prix,17,2020
+77,BOT,bottas,mercedes,2.0,Abu Dhabi Grand Prix,17,2020
+44,HAM,hamilton,mercedes,3.0,Abu Dhabi Grand Prix,17,2020
+23,ALB,albon,red_bull,4.0,Abu Dhabi Grand Prix,17,2020
+4,NOR,norris,mclaren,5.0,Abu Dhabi Grand Prix,17,2020
+55,SAI,sainz,mclaren,6.0,Abu Dhabi Grand Prix,17,2020
+3,RIC,ricciardo,renault,7.0,Abu Dhabi Grand Prix,17,2020
+10,GAS,gasly,alphatauri,8.0,Abu Dhabi Grand Prix,17,2020
+31,OCO,ocon,renault,9.0,Abu Dhabi Grand Prix,17,2020
+18,STR,stroll,racing_point,10.0,Abu Dhabi Grand Prix,17,2020
+26,KVY,kvyat,alphatauri,11.0,Abu Dhabi Grand Prix,17,2020
+7,RAI,raikkonen,alfa,12.0,Abu Dhabi Grand Prix,17,2020
+16,LEC,leclerc,ferrari,13.0,Abu Dhabi Grand Prix,17,2020
+5,VET,vettel,ferrari,14.0,Abu Dhabi Grand Prix,17,2020
+63,RUS,russell,williams,15.0,Abu Dhabi Grand Prix,17,2020
+99,GIO,giovinazzi,alfa,16.0,Abu Dhabi Grand Prix,17,2020
+6,LAT,latifi,williams,17.0,Abu Dhabi Grand Prix,17,2020
+20,MAG,kevin_magnussen,haas,18.0,Abu Dhabi Grand Prix,17,2020
+51,FIT,pietro_fittipaldi,haas,19.0,Abu Dhabi Grand Prix,17,2020
+11,PER,perez,racing_point,20.0,Abu Dhabi Grand Prix,17,2020

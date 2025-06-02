@@ -1,0 +1,421 @@
+DriverNumber,Abbreviation,DriverId,TeamId,Position,EventName,Round,Season
+77,BOT,bottas,mercedes,1.0,Australian Grand Prix,1,2019
+44,HAM,hamilton,mercedes,2.0,Australian Grand Prix,1,2019
+33,VER,max_verstappen,red_bull,3.0,Australian Grand Prix,1,2019
+5,VET,vettel,ferrari,4.0,Australian Grand Prix,1,2019
+16,LEC,leclerc,ferrari,5.0,Australian Grand Prix,1,2019
+20,MAG,kevin_magnussen,haas,6.0,Australian Grand Prix,1,2019
+27,HUL,hulkenberg,renault,7.0,Australian Grand Prix,1,2019
+7,RAI,raikkonen,alfa,8.0,Australian Grand Prix,1,2019
+18,STR,stroll,racing_point,9.0,Australian Grand Prix,1,2019
+26,KVY,kvyat,toro_rosso,10.0,Australian Grand Prix,1,2019
+10,GAS,gasly,red_bull,11.0,Australian Grand Prix,1,2019
+4,NOR,norris,mclaren,12.0,Australian Grand Prix,1,2019
+11,PER,perez,racing_point,13.0,Australian Grand Prix,1,2019
+23,ALB,albon,toro_rosso,14.0,Australian Grand Prix,1,2019
+99,GIO,giovinazzi,alfa,15.0,Australian Grand Prix,1,2019
+63,RUS,russell,williams,16.0,Australian Grand Prix,1,2019
+88,KUB,kubica,williams,17.0,Australian Grand Prix,1,2019
+8,GRO,grosjean,haas,18.0,Australian Grand Prix,1,2019
+3,RIC,ricciardo,renault,19.0,Australian Grand Prix,1,2019
+55,SAI,sainz,mclaren,20.0,Australian Grand Prix,1,2019
+44,HAM,hamilton,mercedes,1.0,Bahrain Grand Prix,2,2019
+77,BOT,bottas,mercedes,2.0,Bahrain Grand Prix,2,2019
+16,LEC,leclerc,ferrari,3.0,Bahrain Grand Prix,2,2019
+33,VER,max_verstappen,red_bull,4.0,Bahrain Grand Prix,2,2019
+5,VET,vettel,ferrari,5.0,Bahrain Grand Prix,2,2019
+4,NOR,norris,mclaren,6.0,Bahrain Grand Prix,2,2019
+7,RAI,raikkonen,alfa,7.0,Bahrain Grand Prix,2,2019
+10,GAS,gasly,red_bull,8.0,Bahrain Grand Prix,2,2019
+23,ALB,albon,toro_rosso,9.0,Bahrain Grand Prix,2,2019
+11,PER,perez,racing_point,10.0,Bahrain Grand Prix,2,2019
+99,GIO,giovinazzi,alfa,11.0,Bahrain Grand Prix,2,2019
+26,KVY,kvyat,toro_rosso,12.0,Bahrain Grand Prix,2,2019
+20,MAG,kevin_magnussen,haas,13.0,Bahrain Grand Prix,2,2019
+18,STR,stroll,racing_point,14.0,Bahrain Grand Prix,2,2019
+63,RUS,russell,williams,15.0,Bahrain Grand Prix,2,2019
+88,KUB,kubica,williams,16.0,Bahrain Grand Prix,2,2019
+27,HUL,hulkenberg,renault,17.0,Bahrain Grand Prix,2,2019
+3,RIC,ricciardo,renault,18.0,Bahrain Grand Prix,2,2019
+55,SAI,sainz,mclaren,19.0,Bahrain Grand Prix,2,2019
+8,GRO,grosjean,haas,20.0,Bahrain Grand Prix,2,2019
+44,HAM,hamilton,mercedes,1.0,Chinese Grand Prix,3,2019
+77,BOT,bottas,mercedes,2.0,Chinese Grand Prix,3,2019
+5,VET,vettel,ferrari,3.0,Chinese Grand Prix,3,2019
+33,VER,max_verstappen,red_bull,4.0,Chinese Grand Prix,3,2019
+16,LEC,leclerc,ferrari,5.0,Chinese Grand Prix,3,2019
+10,GAS,gasly,red_bull,6.0,Chinese Grand Prix,3,2019
+3,RIC,ricciardo,renault,7.0,Chinese Grand Prix,3,2019
+11,PER,perez,racing_point,8.0,Chinese Grand Prix,3,2019
+7,RAI,raikkonen,alfa,9.0,Chinese Grand Prix,3,2019
+23,ALB,albon,toro_rosso,10.0,Chinese Grand Prix,3,2019
+8,GRO,grosjean,haas,11.0,Chinese Grand Prix,3,2019
+18,STR,stroll,racing_point,12.0,Chinese Grand Prix,3,2019
+20,MAG,kevin_magnussen,haas,13.0,Chinese Grand Prix,3,2019
+55,SAI,sainz,mclaren,14.0,Chinese Grand Prix,3,2019
+99,GIO,giovinazzi,alfa,15.0,Chinese Grand Prix,3,2019
+63,RUS,russell,williams,16.0,Chinese Grand Prix,3,2019
+88,KUB,kubica,williams,17.0,Chinese Grand Prix,3,2019
+4,NOR,norris,mclaren,18.0,Chinese Grand Prix,3,2019
+26,KVY,kvyat,toro_rosso,19.0,Chinese Grand Prix,3,2019
+27,HUL,hulkenberg,renault,20.0,Chinese Grand Prix,3,2019
+77,BOT,bottas,mercedes,1.0,Azerbaijan Grand Prix,4,2019
+44,HAM,hamilton,mercedes,2.0,Azerbaijan Grand Prix,4,2019
+5,VET,vettel,ferrari,3.0,Azerbaijan Grand Prix,4,2019
+33,VER,max_verstappen,red_bull,4.0,Azerbaijan Grand Prix,4,2019
+16,LEC,leclerc,ferrari,5.0,Azerbaijan Grand Prix,4,2019
+11,PER,perez,racing_point,6.0,Azerbaijan Grand Prix,4,2019
+55,SAI,sainz,mclaren,7.0,Azerbaijan Grand Prix,4,2019
+4,NOR,norris,mclaren,8.0,Azerbaijan Grand Prix,4,2019
+18,STR,stroll,racing_point,9.0,Azerbaijan Grand Prix,4,2019
+7,RAI,raikkonen,alfa,10.0,Azerbaijan Grand Prix,4,2019
+23,ALB,albon,toro_rosso,11.0,Azerbaijan Grand Prix,4,2019
+99,GIO,giovinazzi,alfa,12.0,Azerbaijan Grand Prix,4,2019
+20,MAG,kevin_magnussen,haas,13.0,Azerbaijan Grand Prix,4,2019
+27,HUL,hulkenberg,renault,14.0,Azerbaijan Grand Prix,4,2019
+63,RUS,russell,williams,15.0,Azerbaijan Grand Prix,4,2019
+88,KUB,kubica,williams,16.0,Azerbaijan Grand Prix,4,2019
+10,GAS,gasly,red_bull,17.0,Azerbaijan Grand Prix,4,2019
+8,GRO,grosjean,haas,18.0,Azerbaijan Grand Prix,4,2019
+26,KVY,kvyat,toro_rosso,19.0,Azerbaijan Grand Prix,4,2019
+3,RIC,ricciardo,renault,20.0,Azerbaijan Grand Prix,4,2019
+44,HAM,hamilton,mercedes,1.0,Spanish Grand Prix,5,2019
+77,BOT,bottas,mercedes,2.0,Spanish Grand Prix,5,2019
+33,VER,max_verstappen,red_bull,3.0,Spanish Grand Prix,5,2019
+5,VET,vettel,ferrari,4.0,Spanish Grand Prix,5,2019
+16,LEC,leclerc,ferrari,5.0,Spanish Grand Prix,5,2019
+10,GAS,gasly,red_bull,6.0,Spanish Grand Prix,5,2019
+20,MAG,kevin_magnussen,haas,7.0,Spanish Grand Prix,5,2019
+55,SAI,sainz,mclaren,8.0,Spanish Grand Prix,5,2019
+26,KVY,kvyat,toro_rosso,9.0,Spanish Grand Prix,5,2019
+8,GRO,grosjean,haas,10.0,Spanish Grand Prix,5,2019
+23,ALB,albon,toro_rosso,11.0,Spanish Grand Prix,5,2019
+3,RIC,ricciardo,renault,12.0,Spanish Grand Prix,5,2019
+27,HUL,hulkenberg,renault,13.0,Spanish Grand Prix,5,2019
+7,RAI,raikkonen,alfa,14.0,Spanish Grand Prix,5,2019
+11,PER,perez,racing_point,15.0,Spanish Grand Prix,5,2019
+99,GIO,giovinazzi,alfa,16.0,Spanish Grand Prix,5,2019
+63,RUS,russell,williams,17.0,Spanish Grand Prix,5,2019
+88,KUB,kubica,williams,18.0,Spanish Grand Prix,5,2019
+18,STR,stroll,racing_point,19.0,Spanish Grand Prix,5,2019
+4,NOR,norris,mclaren,20.0,Spanish Grand Prix,5,2019
+44,HAM,hamilton,mercedes,1.0,Monaco Grand Prix,6,2019
+5,VET,vettel,ferrari,2.0,Monaco Grand Prix,6,2019
+77,BOT,bottas,mercedes,3.0,Monaco Grand Prix,6,2019
+33,VER,max_verstappen,red_bull,4.0,Monaco Grand Prix,6,2019
+10,GAS,gasly,red_bull,5.0,Monaco Grand Prix,6,2019
+55,SAI,sainz,mclaren,6.0,Monaco Grand Prix,6,2019
+26,KVY,kvyat,toro_rosso,7.0,Monaco Grand Prix,6,2019
+23,ALB,albon,toro_rosso,8.0,Monaco Grand Prix,6,2019
+3,RIC,ricciardo,renault,9.0,Monaco Grand Prix,6,2019
+8,GRO,grosjean,haas,10.0,Monaco Grand Prix,6,2019
+4,NOR,norris,mclaren,11.0,Monaco Grand Prix,6,2019
+11,PER,perez,racing_point,12.0,Monaco Grand Prix,6,2019
+27,HUL,hulkenberg,renault,13.0,Monaco Grand Prix,6,2019
+20,MAG,kevin_magnussen,haas,14.0,Monaco Grand Prix,6,2019
+63,RUS,russell,williams,15.0,Monaco Grand Prix,6,2019
+18,STR,stroll,racing_point,16.0,Monaco Grand Prix,6,2019
+7,RAI,raikkonen,alfa,17.0,Monaco Grand Prix,6,2019
+88,KUB,kubica,williams,18.0,Monaco Grand Prix,6,2019
+99,GIO,giovinazzi,alfa,19.0,Monaco Grand Prix,6,2019
+16,LEC,leclerc,ferrari,20.0,Monaco Grand Prix,6,2019
+44,HAM,hamilton,mercedes,1.0,Canadian Grand Prix,7,2019
+5,VET,vettel,ferrari,2.0,Canadian Grand Prix,7,2019
+16,LEC,leclerc,ferrari,3.0,Canadian Grand Prix,7,2019
+77,BOT,bottas,mercedes,4.0,Canadian Grand Prix,7,2019
+33,VER,max_verstappen,red_bull,5.0,Canadian Grand Prix,7,2019
+3,RIC,ricciardo,renault,6.0,Canadian Grand Prix,7,2019
+27,HUL,hulkenberg,renault,7.0,Canadian Grand Prix,7,2019
+10,GAS,gasly,red_bull,8.0,Canadian Grand Prix,7,2019
+18,STR,stroll,racing_point,9.0,Canadian Grand Prix,7,2019
+26,KVY,kvyat,toro_rosso,10.0,Canadian Grand Prix,7,2019
+55,SAI,sainz,mclaren,11.0,Canadian Grand Prix,7,2019
+11,PER,perez,racing_point,12.0,Canadian Grand Prix,7,2019
+99,GIO,giovinazzi,alfa,13.0,Canadian Grand Prix,7,2019
+8,GRO,grosjean,haas,14.0,Canadian Grand Prix,7,2019
+7,RAI,raikkonen,alfa,15.0,Canadian Grand Prix,7,2019
+63,RUS,russell,williams,16.0,Canadian Grand Prix,7,2019
+20,MAG,kevin_magnussen,haas,17.0,Canadian Grand Prix,7,2019
+88,KUB,kubica,williams,18.0,Canadian Grand Prix,7,2019
+23,ALB,albon,toro_rosso,19.0,Canadian Grand Prix,7,2019
+4,NOR,norris,mclaren,20.0,Canadian Grand Prix,7,2019
+44,HAM,hamilton,mercedes,1.0,French Grand Prix,8,2019
+77,BOT,bottas,mercedes,2.0,French Grand Prix,8,2019
+16,LEC,leclerc,ferrari,3.0,French Grand Prix,8,2019
+33,VER,max_verstappen,red_bull,4.0,French Grand Prix,8,2019
+5,VET,vettel,ferrari,5.0,French Grand Prix,8,2019
+55,SAI,sainz,mclaren,6.0,French Grand Prix,8,2019
+7,RAI,raikkonen,alfa,7.0,French Grand Prix,8,2019
+27,HUL,hulkenberg,renault,8.0,French Grand Prix,8,2019
+4,NOR,norris,mclaren,9.0,French Grand Prix,8,2019
+10,GAS,gasly,red_bull,10.0,French Grand Prix,8,2019
+3,RIC,ricciardo,renault,11.0,French Grand Prix,8,2019
+11,PER,perez,racing_point,12.0,French Grand Prix,8,2019
+18,STR,stroll,racing_point,13.0,French Grand Prix,8,2019
+26,KVY,kvyat,toro_rosso,14.0,French Grand Prix,8,2019
+23,ALB,albon,toro_rosso,15.0,French Grand Prix,8,2019
+99,GIO,giovinazzi,alfa,16.0,French Grand Prix,8,2019
+20,MAG,kevin_magnussen,haas,17.0,French Grand Prix,8,2019
+88,KUB,kubica,williams,18.0,French Grand Prix,8,2019
+63,RUS,russell,williams,19.0,French Grand Prix,8,2019
+8,GRO,grosjean,haas,20.0,French Grand Prix,8,2019
+33,VER,max_verstappen,red_bull,1.0,Austrian Grand Prix,9,2019
+16,LEC,leclerc,ferrari,2.0,Austrian Grand Prix,9,2019
+77,BOT,bottas,mercedes,3.0,Austrian Grand Prix,9,2019
+5,VET,vettel,ferrari,4.0,Austrian Grand Prix,9,2019
+44,HAM,hamilton,mercedes,5.0,Austrian Grand Prix,9,2019
+4,NOR,norris,mclaren,6.0,Austrian Grand Prix,9,2019
+10,GAS,gasly,red_bull,7.0,Austrian Grand Prix,9,2019
+55,SAI,sainz,mclaren,8.0,Austrian Grand Prix,9,2019
+7,RAI,raikkonen,alfa,9.0,Austrian Grand Prix,9,2019
+99,GIO,giovinazzi,alfa,10.0,Austrian Grand Prix,9,2019
+11,PER,perez,racing_point,11.0,Austrian Grand Prix,9,2019
+3,RIC,ricciardo,renault,12.0,Austrian Grand Prix,9,2019
+27,HUL,hulkenberg,renault,13.0,Austrian Grand Prix,9,2019
+18,STR,stroll,racing_point,14.0,Austrian Grand Prix,9,2019
+23,ALB,albon,toro_rosso,15.0,Austrian Grand Prix,9,2019
+8,GRO,grosjean,haas,16.0,Austrian Grand Prix,9,2019
+26,KVY,kvyat,toro_rosso,17.0,Austrian Grand Prix,9,2019
+63,RUS,russell,williams,18.0,Austrian Grand Prix,9,2019
+20,MAG,kevin_magnussen,haas,19.0,Austrian Grand Prix,9,2019
+88,KUB,kubica,williams,20.0,Austrian Grand Prix,9,2019
+44,HAM,hamilton,mercedes,1.0,British Grand Prix,10,2019
+77,BOT,bottas,mercedes,2.0,British Grand Prix,10,2019
+16,LEC,leclerc,ferrari,3.0,British Grand Prix,10,2019
+10,GAS,gasly,red_bull,4.0,British Grand Prix,10,2019
+33,VER,max_verstappen,red_bull,5.0,British Grand Prix,10,2019
+55,SAI,sainz,mclaren,6.0,British Grand Prix,10,2019
+3,RIC,ricciardo,renault,7.0,British Grand Prix,10,2019
+7,RAI,raikkonen,alfa,8.0,British Grand Prix,10,2019
+26,KVY,kvyat,toro_rosso,9.0,British Grand Prix,10,2019
+27,HUL,hulkenberg,renault,10.0,British Grand Prix,10,2019
+4,NOR,norris,mclaren,11.0,British Grand Prix,10,2019
+23,ALB,albon,toro_rosso,12.0,British Grand Prix,10,2019
+18,STR,stroll,racing_point,13.0,British Grand Prix,10,2019
+63,RUS,russell,williams,14.0,British Grand Prix,10,2019
+88,KUB,kubica,williams,15.0,British Grand Prix,10,2019
+5,VET,vettel,ferrari,16.0,British Grand Prix,10,2019
+11,PER,perez,racing_point,17.0,British Grand Prix,10,2019
+99,GIO,giovinazzi,alfa,18.0,British Grand Prix,10,2019
+8,GRO,grosjean,haas,19.0,British Grand Prix,10,2019
+20,MAG,kevin_magnussen,haas,20.0,British Grand Prix,10,2019
+33,VER,max_verstappen,red_bull,1.0,German Grand Prix,11,2019
+5,VET,vettel,ferrari,2.0,German Grand Prix,11,2019
+26,KVY,kvyat,toro_rosso,3.0,German Grand Prix,11,2019
+18,STR,stroll,racing_point,4.0,German Grand Prix,11,2019
+55,SAI,sainz,mclaren,5.0,German Grand Prix,11,2019
+23,ALB,albon,toro_rosso,6.0,German Grand Prix,11,2019
+8,GRO,grosjean,haas,7.0,German Grand Prix,11,2019
+20,MAG,kevin_magnussen,haas,8.0,German Grand Prix,11,2019
+44,HAM,hamilton,mercedes,9.0,German Grand Prix,11,2019
+88,KUB,kubica,williams,10.0,German Grand Prix,11,2019
+63,RUS,russell,williams,11.0,German Grand Prix,11,2019
+7,RAI,raikkonen,alfa,12.0,German Grand Prix,11,2019
+99,GIO,giovinazzi,alfa,13.0,German Grand Prix,11,2019
+10,GAS,gasly,red_bull,14.0,German Grand Prix,11,2019
+77,BOT,bottas,mercedes,15.0,German Grand Prix,11,2019
+27,HUL,hulkenberg,renault,16.0,German Grand Prix,11,2019
+16,LEC,leclerc,ferrari,17.0,German Grand Prix,11,2019
+4,NOR,norris,mclaren,18.0,German Grand Prix,11,2019
+3,RIC,ricciardo,renault,19.0,German Grand Prix,11,2019
+11,PER,perez,racing_point,20.0,German Grand Prix,11,2019
+44,HAM,hamilton,mercedes,1.0,Hungarian Grand Prix,12,2019
+33,VER,max_verstappen,red_bull,2.0,Hungarian Grand Prix,12,2019
+5,VET,vettel,ferrari,3.0,Hungarian Grand Prix,12,2019
+16,LEC,leclerc,ferrari,4.0,Hungarian Grand Prix,12,2019
+55,SAI,sainz,mclaren,5.0,Hungarian Grand Prix,12,2019
+10,GAS,gasly,red_bull,6.0,Hungarian Grand Prix,12,2019
+7,RAI,raikkonen,alfa,7.0,Hungarian Grand Prix,12,2019
+77,BOT,bottas,mercedes,8.0,Hungarian Grand Prix,12,2019
+4,NOR,norris,mclaren,9.0,Hungarian Grand Prix,12,2019
+23,ALB,albon,toro_rosso,10.0,Hungarian Grand Prix,12,2019
+11,PER,perez,racing_point,11.0,Hungarian Grand Prix,12,2019
+27,HUL,hulkenberg,renault,12.0,Hungarian Grand Prix,12,2019
+20,MAG,kevin_magnussen,haas,13.0,Hungarian Grand Prix,12,2019
+3,RIC,ricciardo,renault,14.0,Hungarian Grand Prix,12,2019
+26,KVY,kvyat,toro_rosso,15.0,Hungarian Grand Prix,12,2019
+63,RUS,russell,williams,16.0,Hungarian Grand Prix,12,2019
+18,STR,stroll,racing_point,17.0,Hungarian Grand Prix,12,2019
+99,GIO,giovinazzi,alfa,18.0,Hungarian Grand Prix,12,2019
+88,KUB,kubica,williams,19.0,Hungarian Grand Prix,12,2019
+8,GRO,grosjean,haas,20.0,Hungarian Grand Prix,12,2019
+16,LEC,leclerc,ferrari,1.0,Belgian Grand Prix,13,2019
+44,HAM,hamilton,mercedes,2.0,Belgian Grand Prix,13,2019
+77,BOT,bottas,mercedes,3.0,Belgian Grand Prix,13,2019
+5,VET,vettel,ferrari,4.0,Belgian Grand Prix,13,2019
+23,ALB,albon,red_bull,5.0,Belgian Grand Prix,13,2019
+11,PER,perez,racing_point,6.0,Belgian Grand Prix,13,2019
+26,KVY,kvyat,toro_rosso,7.0,Belgian Grand Prix,13,2019
+27,HUL,hulkenberg,renault,8.0,Belgian Grand Prix,13,2019
+10,GAS,gasly,toro_rosso,9.0,Belgian Grand Prix,13,2019
+18,STR,stroll,racing_point,10.0,Belgian Grand Prix,13,2019
+4,NOR,norris,mclaren,11.0,Belgian Grand Prix,13,2019
+20,MAG,kevin_magnussen,haas,12.0,Belgian Grand Prix,13,2019
+8,GRO,grosjean,haas,13.0,Belgian Grand Prix,13,2019
+3,RIC,ricciardo,renault,14.0,Belgian Grand Prix,13,2019
+63,RUS,russell,williams,15.0,Belgian Grand Prix,13,2019
+7,RAI,raikkonen,alfa,16.0,Belgian Grand Prix,13,2019
+88,KUB,kubica,williams,17.0,Belgian Grand Prix,13,2019
+99,GIO,giovinazzi,alfa,18.0,Belgian Grand Prix,13,2019
+55,SAI,sainz,mclaren,19.0,Belgian Grand Prix,13,2019
+33,VER,max_verstappen,red_bull,20.0,Belgian Grand Prix,13,2019
+16,LEC,leclerc,ferrari,1.0,Italian Grand Prix,14,2019
+77,BOT,bottas,mercedes,2.0,Italian Grand Prix,14,2019
+44,HAM,hamilton,mercedes,3.0,Italian Grand Prix,14,2019
+3,RIC,ricciardo,renault,4.0,Italian Grand Prix,14,2019
+27,HUL,hulkenberg,renault,5.0,Italian Grand Prix,14,2019
+23,ALB,albon,red_bull,6.0,Italian Grand Prix,14,2019
+11,PER,perez,racing_point,7.0,Italian Grand Prix,14,2019
+33,VER,max_verstappen,red_bull,8.0,Italian Grand Prix,14,2019
+99,GIO,giovinazzi,alfa,9.0,Italian Grand Prix,14,2019
+4,NOR,norris,mclaren,10.0,Italian Grand Prix,14,2019
+10,GAS,gasly,toro_rosso,11.0,Italian Grand Prix,14,2019
+18,STR,stroll,racing_point,12.0,Italian Grand Prix,14,2019
+5,VET,vettel,ferrari,13.0,Italian Grand Prix,14,2019
+63,RUS,russell,williams,14.0,Italian Grand Prix,14,2019
+7,RAI,raikkonen,alfa,15.0,Italian Grand Prix,14,2019
+8,GRO,grosjean,haas,16.0,Italian Grand Prix,14,2019
+88,KUB,kubica,williams,17.0,Italian Grand Prix,14,2019
+20,MAG,kevin_magnussen,haas,18.0,Italian Grand Prix,14,2019
+26,KVY,kvyat,toro_rosso,19.0,Italian Grand Prix,14,2019
+55,SAI,sainz,mclaren,20.0,Italian Grand Prix,14,2019
+5,VET,vettel,ferrari,1.0,Singapore Grand Prix,15,2019
+16,LEC,leclerc,ferrari,2.0,Singapore Grand Prix,15,2019
+33,VER,max_verstappen,red_bull,3.0,Singapore Grand Prix,15,2019
+44,HAM,hamilton,mercedes,4.0,Singapore Grand Prix,15,2019
+77,BOT,bottas,mercedes,5.0,Singapore Grand Prix,15,2019
+23,ALB,albon,red_bull,6.0,Singapore Grand Prix,15,2019
+4,NOR,norris,mclaren,7.0,Singapore Grand Prix,15,2019
+10,GAS,gasly,toro_rosso,8.0,Singapore Grand Prix,15,2019
+27,HUL,hulkenberg,renault,9.0,Singapore Grand Prix,15,2019
+99,GIO,giovinazzi,alfa,10.0,Singapore Grand Prix,15,2019
+8,GRO,grosjean,haas,11.0,Singapore Grand Prix,15,2019
+55,SAI,sainz,mclaren,12.0,Singapore Grand Prix,15,2019
+18,STR,stroll,racing_point,13.0,Singapore Grand Prix,15,2019
+3,RIC,ricciardo,renault,14.0,Singapore Grand Prix,15,2019
+26,KVY,kvyat,toro_rosso,15.0,Singapore Grand Prix,15,2019
+88,KUB,kubica,williams,16.0,Singapore Grand Prix,15,2019
+20,MAG,kevin_magnussen,haas,17.0,Singapore Grand Prix,15,2019
+7,RAI,raikkonen,alfa,18.0,Singapore Grand Prix,15,2019
+11,PER,perez,racing_point,19.0,Singapore Grand Prix,15,2019
+63,RUS,russell,williams,20.0,Singapore Grand Prix,15,2019
+44,HAM,hamilton,mercedes,1.0,Russian Grand Prix,16,2019
+77,BOT,bottas,mercedes,2.0,Russian Grand Prix,16,2019
+16,LEC,leclerc,ferrari,3.0,Russian Grand Prix,16,2019
+33,VER,max_verstappen,red_bull,4.0,Russian Grand Prix,16,2019
+23,ALB,albon,red_bull,5.0,Russian Grand Prix,16,2019
+55,SAI,sainz,mclaren,6.0,Russian Grand Prix,16,2019
+11,PER,perez,racing_point,7.0,Russian Grand Prix,16,2019
+4,NOR,norris,mclaren,8.0,Russian Grand Prix,16,2019
+20,MAG,kevin_magnussen,haas,9.0,Russian Grand Prix,16,2019
+27,HUL,hulkenberg,renault,10.0,Russian Grand Prix,16,2019
+18,STR,stroll,racing_point,11.0,Russian Grand Prix,16,2019
+26,KVY,kvyat,toro_rosso,12.0,Russian Grand Prix,16,2019
+7,RAI,raikkonen,alfa,13.0,Russian Grand Prix,16,2019
+10,GAS,gasly,toro_rosso,14.0,Russian Grand Prix,16,2019
+99,GIO,giovinazzi,alfa,15.0,Russian Grand Prix,16,2019
+88,KUB,kubica,williams,16.0,Russian Grand Prix,16,2019
+63,RUS,russell,williams,17.0,Russian Grand Prix,16,2019
+5,VET,vettel,ferrari,18.0,Russian Grand Prix,16,2019
+3,RIC,ricciardo,renault,19.0,Russian Grand Prix,16,2019
+8,GRO,grosjean,haas,20.0,Russian Grand Prix,16,2019
+77,BOT,bottas,mercedes,1.0,Japanese Grand Prix,17,2019
+5,VET,vettel,ferrari,2.0,Japanese Grand Prix,17,2019
+44,HAM,hamilton,mercedes,3.0,Japanese Grand Prix,17,2019
+23,ALB,albon,red_bull,4.0,Japanese Grand Prix,17,2019
+55,SAI,sainz,mclaren,5.0,Japanese Grand Prix,17,2019
+16,LEC,leclerc,ferrari,6.0,Japanese Grand Prix,17,2019
+10,GAS,gasly,toro_rosso,7.0,Japanese Grand Prix,17,2019
+11,PER,perez,racing_point,8.0,Japanese Grand Prix,17,2019
+18,STR,stroll,racing_point,9.0,Japanese Grand Prix,17,2019
+26,KVY,kvyat,toro_rosso,10.0,Japanese Grand Prix,17,2019
+4,NOR,norris,mclaren,11.0,Japanese Grand Prix,17,2019
+7,RAI,raikkonen,alfa,12.0,Japanese Grand Prix,17,2019
+8,GRO,grosjean,haas,13.0,Japanese Grand Prix,17,2019
+99,GIO,giovinazzi,alfa,14.0,Japanese Grand Prix,17,2019
+20,MAG,kevin_magnussen,haas,15.0,Japanese Grand Prix,17,2019
+63,RUS,russell,williams,16.0,Japanese Grand Prix,17,2019
+88,KUB,kubica,williams,17.0,Japanese Grand Prix,17,2019
+33,VER,max_verstappen,red_bull,18.0,Japanese Grand Prix,17,2019
+3,RIC,ricciardo,renault,19.0,Japanese Grand Prix,17,2019
+27,HUL,hulkenberg,renault,20.0,Japanese Grand Prix,17,2019
+44,HAM,hamilton,mercedes,1.0,Mexican Grand Prix,18,2019
+5,VET,vettel,ferrari,2.0,Mexican Grand Prix,18,2019
+77,BOT,bottas,mercedes,3.0,Mexican Grand Prix,18,2019
+16,LEC,leclerc,ferrari,4.0,Mexican Grand Prix,18,2019
+23,ALB,albon,red_bull,5.0,Mexican Grand Prix,18,2019
+33,VER,max_verstappen,red_bull,6.0,Mexican Grand Prix,18,2019
+11,PER,perez,racing_point,7.0,Mexican Grand Prix,18,2019
+3,RIC,ricciardo,renault,8.0,Mexican Grand Prix,18,2019
+10,GAS,gasly,toro_rosso,9.0,Mexican Grand Prix,18,2019
+27,HUL,hulkenberg,renault,10.0,Mexican Grand Prix,18,2019
+26,KVY,kvyat,toro_rosso,11.0,Mexican Grand Prix,18,2019
+18,STR,stroll,racing_point,12.0,Mexican Grand Prix,18,2019
+55,SAI,sainz,mclaren,13.0,Mexican Grand Prix,18,2019
+99,GIO,giovinazzi,alfa,14.0,Mexican Grand Prix,18,2019
+20,MAG,kevin_magnussen,haas,15.0,Mexican Grand Prix,18,2019
+63,RUS,russell,williams,16.0,Mexican Grand Prix,18,2019
+8,GRO,grosjean,haas,17.0,Mexican Grand Prix,18,2019
+88,KUB,kubica,williams,18.0,Mexican Grand Prix,18,2019
+7,RAI,raikkonen,alfa,19.0,Mexican Grand Prix,18,2019
+4,NOR,norris,mclaren,20.0,Mexican Grand Prix,18,2019
+77,BOT,bottas,mercedes,1.0,United States Grand Prix,19,2019
+44,HAM,hamilton,mercedes,2.0,United States Grand Prix,19,2019
+33,VER,max_verstappen,red_bull,3.0,United States Grand Prix,19,2019
+16,LEC,leclerc,ferrari,4.0,United States Grand Prix,19,2019
+23,ALB,albon,red_bull,5.0,United States Grand Prix,19,2019
+3,RIC,ricciardo,renault,6.0,United States Grand Prix,19,2019
+4,NOR,norris,mclaren,7.0,United States Grand Prix,19,2019
+55,SAI,sainz,mclaren,8.0,United States Grand Prix,19,2019
+27,HUL,hulkenberg,renault,9.0,United States Grand Prix,19,2019
+11,PER,perez,racing_point,10.0,United States Grand Prix,19,2019
+7,RAI,raikkonen,alfa,11.0,United States Grand Prix,19,2019
+26,KVY,kvyat,toro_rosso,12.0,United States Grand Prix,19,2019
+18,STR,stroll,racing_point,13.0,United States Grand Prix,19,2019
+99,GIO,giovinazzi,alfa,14.0,United States Grand Prix,19,2019
+8,GRO,grosjean,haas,15.0,United States Grand Prix,19,2019
+10,GAS,gasly,toro_rosso,16.0,United States Grand Prix,19,2019
+63,RUS,russell,williams,17.0,United States Grand Prix,19,2019
+20,MAG,kevin_magnussen,haas,18.0,United States Grand Prix,19,2019
+88,KUB,kubica,williams,19.0,United States Grand Prix,19,2019
+5,VET,vettel,ferrari,20.0,United States Grand Prix,19,2019
+33,VER,max_verstappen,red_bull,1.0,Brazilian Grand Prix,20,2019
+10,GAS,gasly,toro_rosso,2.0,Brazilian Grand Prix,20,2019
+55,SAI,sainz,mclaren,3.0,Brazilian Grand Prix,20,2019
+7,RAI,raikkonen,alfa,4.0,Brazilian Grand Prix,20,2019
+99,GIO,giovinazzi,alfa,5.0,Brazilian Grand Prix,20,2019
+3,RIC,ricciardo,renault,6.0,Brazilian Grand Prix,20,2019
+44,HAM,hamilton,mercedes,7.0,Brazilian Grand Prix,20,2019
+4,NOR,norris,mclaren,8.0,Brazilian Grand Prix,20,2019
+11,PER,perez,racing_point,9.0,Brazilian Grand Prix,20,2019
+26,KVY,kvyat,toro_rosso,10.0,Brazilian Grand Prix,20,2019
+20,MAG,kevin_magnussen,haas,11.0,Brazilian Grand Prix,20,2019
+63,RUS,russell,williams,12.0,Brazilian Grand Prix,20,2019
+8,GRO,grosjean,haas,13.0,Brazilian Grand Prix,20,2019
+23,ALB,albon,red_bull,14.0,Brazilian Grand Prix,20,2019
+27,HUL,hulkenberg,renault,15.0,Brazilian Grand Prix,20,2019
+88,KUB,kubica,williams,16.0,Brazilian Grand Prix,20,2019
+5,VET,vettel,ferrari,17.0,Brazilian Grand Prix,20,2019
+16,LEC,leclerc,ferrari,18.0,Brazilian Grand Prix,20,2019
+18,STR,stroll,racing_point,19.0,Brazilian Grand Prix,20,2019
+77,BOT,bottas,mercedes,20.0,Brazilian Grand Prix,20,2019
+44,HAM,hamilton,mercedes,1.0,Abu Dhabi Grand Prix,21,2019
+33,VER,max_verstappen,red_bull,2.0,Abu Dhabi Grand Prix,21,2019
+16,LEC,leclerc,ferrari,3.0,Abu Dhabi Grand Prix,21,2019
+77,BOT,bottas,mercedes,4.0,Abu Dhabi Grand Prix,21,2019
+5,VET,vettel,ferrari,5.0,Abu Dhabi Grand Prix,21,2019
+23,ALB,albon,red_bull,6.0,Abu Dhabi Grand Prix,21,2019
+11,PER,perez,racing_point,7.0,Abu Dhabi Grand Prix,21,2019
+4,NOR,norris,mclaren,8.0,Abu Dhabi Grand Prix,21,2019
+26,KVY,kvyat,toro_rosso,9.0,Abu Dhabi Grand Prix,21,2019
+55,SAI,sainz,mclaren,10.0,Abu Dhabi Grand Prix,21,2019
+3,RIC,ricciardo,renault,11.0,Abu Dhabi Grand Prix,21,2019
+27,HUL,hulkenberg,renault,12.0,Abu Dhabi Grand Prix,21,2019
+7,RAI,raikkonen,alfa,13.0,Abu Dhabi Grand Prix,21,2019
+20,MAG,kevin_magnussen,haas,14.0,Abu Dhabi Grand Prix,21,2019
+8,GRO,grosjean,haas,15.0,Abu Dhabi Grand Prix,21,2019
+99,GIO,giovinazzi,alfa,16.0,Abu Dhabi Grand Prix,21,2019
+63,RUS,russell,williams,17.0,Abu Dhabi Grand Prix,21,2019
+10,GAS,gasly,toro_rosso,18.0,Abu Dhabi Grand Prix,21,2019
+88,KUB,kubica,williams,19.0,Abu Dhabi Grand Prix,21,2019
+18,STR,stroll,racing_point,20.0,Abu Dhabi Grand Prix,21,2019
