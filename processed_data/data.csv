@@ -78,14 +78,12 @@ grosjean,80.0,16.0,haas,ferrari,2020
 raikkonen,87.0,17.0,sauber,ferrari,2020
 kvyat,80.0,18.0,rb,rbpt,2020
 kevin_magnussen,78.0,19.0,haas,ferrari,2020
-hulkenberg,,20.0,aston_martin,mercedes,2020
 max_verstappen,90.0,1.0,red_bull,rbpt,2020
 hamilton,94.0,2.0,mercedes,mercedes,2020
 bottas,90.0,3.0,mercedes,mercedes,2020
 leclerc,86.0,4.0,ferrari,ferrari,2020
 albon,79.0,5.0,red_bull,rbpt,2020
 stroll,78.0,6.0,aston_martin,mercedes,2020
-hulkenberg,,7.0,aston_martin,mercedes,2020
 ocon,80.0,8.0,alpine,renault,2020
 norris,79.0,9.0,mclaren,renault,2020
 kvyat,80.0,10.0,rb,rbpt,2020
@@ -206,7 +204,6 @@ perez,85.0,4.0,aston_martin,mercedes,2020
 sainz,82.0,5.0,mclaren,renault,2020
 gasly,80.0,6.0,rb,rbpt,2020
 leclerc,86.0,7.0,ferrari,ferrari,2020
-hulkenberg,,8.0,aston_martin,mercedes,2020
 grosjean,80.0,9.0,haas,ferrari,2020
 giovinazzi,73.0,10.0,sauber,ferrari,2020
 vettel,89.0,11.0,ferrari,ferrari,2020
@@ -314,8 +311,6 @@ vettel,89.0,12.0,ferrari,ferrari,2020
 giovinazzi,73.0,13.0,sauber,ferrari,2020
 raikkonen,87.0,14.0,sauber,ferrari,2020
 kevin_magnussen,78.0,15.0,haas,ferrari,2020
-aitken,,16.0,williams,mercedes,2020
-pietro_fittipaldi,,17.0,haas,ferrari,2020
 latifi,64.0,18.0,williams,mercedes,2020
 max_verstappen,90.0,19.0,red_bull,rbpt,2020
 leclerc,86.0,20.0,ferrari,ferrari,2020
@@ -337,7 +332,6 @@ russell,75.0,15.0,williams,mercedes,2020
 giovinazzi,73.0,16.0,sauber,ferrari,2020
 latifi,64.0,17.0,williams,mercedes,2020
 kevin_magnussen,78.0,18.0,haas,ferrari,2020
-pietro_fittipaldi,,19.0,haas,ferrari,2020
 perez,85.0,20.0,aston_martin,mercedes,2020
 hamilton,95.0,1.0,mercedes,mercedes,2021
 max_verstappen,95.0,2.0,red_bull,rbpt,2021
@@ -593,7 +587,6 @@ ricciardo,90.0,11.0,mclaren,mercedes,2021
 stroll,83.0,12.0,aston_martin,mercedes,2021
 vettel,89.0,13.0,aston_martin,mercedes,2021
 giovinazzi,79.0,14.0,sauber,ferrari,2021
-kubica,,15.0,sauber,ferrari,2021
 latifi,71.0,16.0,williams,mercedes,2021
 russell,84.0,17.0,williams,mercedes,2021
 mick_schumacher,76.0,18.0,haas,ferrari,2021
@@ -612,7 +605,6 @@ ocon,86.0,10.0,alpine,renault,2021
 latifi,71.0,11.0,williams,mercedes,2021
 vettel,89.0,12.0,aston_martin,mercedes,2021
 giovinazzi,79.0,13.0,sauber,ferrari,2021
-kubica,,14.0,sauber,ferrari,2021
 mick_schumacher,76.0,15.0,haas,ferrari,2021
 mazepin,67.0,16.0,haas,ferrari,2021
 hamilton,95.0,17.0,mercedes,mercedes,2021
@@ -778,7 +770,6 @@ latifi,71.0,16.0,williams,mercedes,2021
 giovinazzi,79.0,17.0,sauber,ferrari,2021
 russell,84.0,18.0,williams,mercedes,2021
 raikkonen,87.0,19.0,sauber,ferrari,2021
-mazepin,67.0,,haas,ferrari,2021
 leclerc,92.0,1.0,ferrari,ferrari,2022
 sainz,87.0,2.0,ferrari,ferrari,2022
 hamilton,94.0,3.0,mercedes,mercedes,2022
@@ -795,7 +786,6 @@ albon,82.0,13.0,williams,mercedes,2022
 ricciardo,83.0,14.0,mclaren,mercedes,2022
 norris,90.0,15.0,mclaren,mercedes,2022
 latifi,70.0,16.0,williams,mercedes,2022
-hulkenberg,,17.0,aston_martin,mercedes,2022
 perez,88.0,18.0,red_bull,rbpt,2022
 max_verstappen,94.0,19.0,red_bull,rbpt,2022
 gasly,84.0,20.0,rb,rbpt,2022
@@ -810,7 +800,6 @@ gasly,84.0,8.0,rb,rbpt,2022
 kevin_magnussen,81.0,9.0,haas,ferrari,2022
 hamilton,94.0,10.0,mercedes,mercedes,2022
 zhou,70.0,11.0,sauber,ferrari,2022
-hulkenberg,,12.0,aston_martin,mercedes,2022
 stroll,80.0,13.0,aston_martin,mercedes,2022
 albon,82.0,14.0,williams,mercedes,2022
 bottas,88.0,15.0,sauber,ferrari,2022
@@ -818,7 +807,6 @@ alonso,89.0,16.0,alpine,renault,2022
 ricciardo,83.0,17.0,mclaren,mercedes,2022
 latifi,70.0,18.0,williams,mercedes,2022
 tsunoda,78.0,19.0,rb,rbpt,2022
-mick_schumacher,77.0,,haas,ferrari,2022
 leclerc,92.0,1.0,ferrari,ferrari,2022
 perez,88.0,2.0,red_bull,rbpt,2022
 russell,90.0,3.0,mercedes,mercedes,2022
@@ -1087,7 +1075,6 @@ hamilton,94.0,5.0,mercedes,mercedes,2022
 perez,88.0,6.0,red_bull,rbpt,2022
 norris,90.0,7.0,mclaren,mercedes,2022
 gasly,84.0,8.0,rb,rbpt,2022
-de_vries,,9.0,williams,mercedes,2022
 zhou,70.0,10.0,sauber,ferrari,2022
 ocon,83.0,11.0,alpine,renault,2022
 mick_schumacher,77.0,12.0,haas,ferrari,2022
@@ -1411,7 +1398,6 @@ alonso,92.0,9.0,aston_martin,mercedes,2023
 stroll,84.0,10.0,aston_martin,mercedes,2023
 albon,83.0,11.0,williams,mercedes,2023
 bottas,87.0,12.0,sauber,ferrari,2023
-ricciardo,,13.0,rb,rbpt,2023
 hulkenberg,80.0,14.0,haas,ferrari,2023
 tsunoda,83.0,15.0,rb,rbpt,2023
 zhou,78.0,16.0,sauber,ferrari,2023
@@ -1434,7 +1420,6 @@ bottas,87.0,12.0,sauber,ferrari,2023
 zhou,78.0,13.0,sauber,ferrari,2023
 albon,83.0,14.0,williams,mercedes,2023
 kevin_magnussen,81.0,15.0,haas,ferrari,2023
-ricciardo,,16.0,rb,rbpt,2023
 sargeant,71.0,17.0,williams,mercedes,2023
 hulkenberg,80.0,18.0,haas,ferrari,2023
 sainz,88.0,19.0,ferrari,ferrari,2023
@@ -1451,7 +1436,6 @@ piastri,74.0,9.0,mclaren,mercedes,2023
 ocon,86.0,10.0,alpine,renault,2023
 stroll,84.0,11.0,aston_martin,mercedes,2023
 hulkenberg,80.0,12.0,haas,ferrari,2023
-lawson,,13.0,rb,rbpt,2023
 bottas,87.0,14.0,sauber,ferrari,2023
 tsunoda,83.0,15.0,rb,rbpt,2023
 kevin_magnussen,81.0,16.0,haas,ferrari,2023
@@ -1469,7 +1453,6 @@ albon,83.0,7.0,williams,mercedes,2023
 norris,89.0,8.0,mclaren,mercedes,2023
 alonso,92.0,9.0,aston_martin,mercedes,2023
 bottas,87.0,10.0,sauber,ferrari,2023
-lawson,,11.0,rb,rbpt,2023
 piastri,74.0,12.0,mclaren,mercedes,2023
 sargeant,71.0,13.0,williams,mercedes,2023
 zhou,78.0,14.0,sauber,ferrari,2023
@@ -1487,7 +1470,6 @@ max_verstappen,94.0,5.0,red_bull,rbpt,2023
 gasly,85.0,6.0,alpine,renault,2023
 piastri,74.0,7.0,mclaren,mercedes,2023
 perez,89.0,8.0,red_bull,rbpt,2023
-lawson,,9.0,rb,rbpt,2023
 kevin_magnussen,81.0,10.0,haas,ferrari,2023
 albon,83.0,11.0,williams,mercedes,2023
 zhou,78.0,12.0,sauber,ferrari,2023
@@ -1498,7 +1480,6 @@ russell,88.0,16.0,mercedes,mercedes,2023
 bottas,87.0,17.0,sauber,ferrari,2023
 ocon,86.0,18.0,alpine,renault,2023
 tsunoda,83.0,19.0,rb,rbpt,2023
-stroll,84.0,,aston_martin,mercedes,2023
 max_verstappen,94.0,1.0,red_bull,rbpt,2023
 norris,89.0,2.0,mclaren,mercedes,2023
 piastri,74.0,3.0,mclaren,mercedes,2023
@@ -1509,7 +1490,6 @@ russell,88.0,7.0,mercedes,mercedes,2023
 alonso,92.0,8.0,aston_martin,mercedes,2023
 ocon,86.0,9.0,alpine,renault,2023
 gasly,85.0,10.0,alpine,renault,2023
-lawson,,11.0,rb,rbpt,2023
 tsunoda,83.0,12.0,rb,rbpt,2023
 zhou,78.0,13.0,sauber,ferrari,2023
 hulkenberg,80.0,14.0,haas,ferrari,2023
@@ -1535,7 +1515,6 @@ albon,83.0,13.0,williams,mercedes,2023
 kevin_magnussen,81.0,14.0,haas,ferrari,2023
 tsunoda,83.0,15.0,rb,rbpt,2023
 hulkenberg,80.0,16.0,haas,ferrari,2023
-lawson,,17.0,rb,rbpt,2023
 sargeant,71.0,18.0,williams,mercedes,2023
 hamilton,92.0,19.0,mercedes,mercedes,2023
 sainz,88.0,20.0,ferrari,ferrari,2023
@@ -1553,7 +1532,6 @@ hulkenberg,80.0,11.0,haas,ferrari,2023
 bottas,87.0,12.0,sauber,ferrari,2023
 zhou,78.0,13.0,sauber,ferrari,2023
 kevin_magnussen,81.0,14.0,haas,ferrari,2023
-ricciardo,,15.0,rb,rbpt,2023
 alonso,92.0,16.0,aston_martin,mercedes,2023
 piastri,74.0,17.0,mclaren,mercedes,2023
 ocon,86.0,18.0,alpine,renault,2023
@@ -1565,7 +1543,6 @@ leclerc,89.0,3.0,ferrari,ferrari,2023
 sainz,88.0,4.0,ferrari,ferrari,2023
 norris,89.0,5.0,mclaren,mercedes,2023
 russell,88.0,6.0,mercedes,mercedes,2023
-ricciardo,,7.0,rb,rbpt,2023
 piastri,74.0,8.0,mclaren,mercedes,2023
 albon,83.0,9.0,williams,mercedes,2023
 ocon,86.0,10.0,alpine,renault,2023
@@ -1591,7 +1568,6 @@ tsunoda,83.0,9.0,rb,rbpt,2023
 ocon,86.0,10.0,alpine,renault,2023
 sargeant,71.0,11.0,williams,mercedes,2023
 hulkenberg,80.0,12.0,haas,ferrari,2023
-ricciardo,,13.0,rb,rbpt,2023
 piastri,74.0,14.0,mclaren,mercedes,2023
 russell,88.0,15.0,mercedes,mercedes,2023
 bottas,87.0,16.0,sauber,ferrari,2023
@@ -1612,7 +1588,6 @@ piastri,74.0,10.0,mclaren,mercedes,2023
 gasly,85.0,11.0,alpine,renault,2023
 albon,83.0,12.0,williams,mercedes,2023
 kevin_magnussen,81.0,13.0,haas,ferrari,2023
-ricciardo,,14.0,rb,rbpt,2023
 zhou,78.0,15.0,sauber,ferrari,2023
 sargeant,71.0,16.0,williams,mercedes,2023
 bottas,87.0,17.0,sauber,ferrari,2023
@@ -1629,7 +1604,6 @@ alonso,92.0,7.0,aston_martin,mercedes,2023
 tsunoda,83.0,8.0,rb,rbpt,2023
 hamilton,92.0,9.0,mercedes,mercedes,2023
 stroll,84.0,10.0,aston_martin,mercedes,2023
-ricciardo,,11.0,rb,rbpt,2023
 ocon,86.0,12.0,alpine,renault,2023
 gasly,85.0,13.0,alpine,renault,2023
 albon,83.0,14.0,williams,mercedes,2023
@@ -1665,7 +1639,6 @@ leclerc,89.0,3.0,ferrari,ferrari,2024
 piastri,84.0,4.0,mclaren,mercedes,2024
 alonso,92.0,5.0,aston_martin,mercedes,2024
 russell,87.0,6.0,mercedes,mercedes,2024
-bearman,,7.0,ferrari,ferrari,2024
 norris,89.0,8.0,mclaren,mercedes,2024
 hamilton,89.0,9.0,mercedes,mercedes,2024
 hulkenberg,82.0,10.0,haas,ferrari,2024
@@ -1949,7 +1922,6 @@ perez,87.0,8.0,red_bull,rbpt,2024
 albon,85.0,9.0,williams,mercedes,2024
 kevin_magnussen,80.0,10.0,haas,ferrari,2024
 alonso,92.0,11.0,aston_martin,mercedes,2024
-colapinto,,12.0,williams,mercedes,2024
 ricciardo,82.0,13.0,rb,rbpt,2024
 ocon,83.0,14.0,alpine,renault,2024
 gasly,84.0,15.0,alpine,renault,2024
@@ -1965,9 +1937,7 @@ norris,89.0,4.0,mclaren,mercedes,2024
 max_verstappen,96.0,5.0,red_bull,rbpt,2024
 alonso,92.0,6.0,aston_martin,mercedes,2024
 albon,85.0,7.0,williams,mercedes,2024
-colapinto,,8.0,williams,mercedes,2024
 hamilton,89.0,9.0,mercedes,mercedes,2024
-bearman,,10.0,haas,ferrari,2024
 hulkenberg,82.0,11.0,haas,ferrari,2024
 gasly,84.0,12.0,alpine,renault,2024
 ricciardo,82.0,13.0,rb,rbpt,2024
@@ -1988,7 +1958,6 @@ sainz,89.0,7.0,ferrari,ferrari,2024
 alonso,92.0,8.0,aston_martin,mercedes,2024
 hulkenberg,82.0,9.0,haas,ferrari,2024
 perez,87.0,10.0,red_bull,rbpt,2024
-colapinto,,11.0,williams,mercedes,2024
 tsunoda,81.0,12.0,rb,rbpt,2024
 ocon,83.0,13.0,alpine,renault,2024
 stroll,80.0,14.0,aston_martin,mercedes,2024
@@ -2006,8 +1975,6 @@ piastri,84.0,5.0,mclaren,mercedes,2024
 russell,87.0,6.0,mercedes,mercedes,2024
 perez,87.0,7.0,red_bull,rbpt,2024
 hulkenberg,82.0,8.0,haas,ferrari,2024
-lawson,,9.0,rb,rbpt,2024
-colapinto,,10.0,williams,mercedes,2024
 kevin_magnussen,80.0,11.0,haas,ferrari,2024
 gasly,84.0,12.0,alpine,renault,2024
 alonso,92.0,13.0,aston_martin,mercedes,2024
@@ -2029,11 +1996,9 @@ piastri,84.0,8.0,mclaren,mercedes,2024
 hulkenberg,82.0,9.0,haas,ferrari,2024
 gasly,84.0,10.0,alpine,renault,2024
 stroll,80.0,11.0,aston_martin,mercedes,2024
-colapinto,,12.0,williams,mercedes,2024
 ocon,83.0,13.0,alpine,renault,2024
 bottas,81.0,14.0,sauber,ferrari,2024
 zhou,80.0,15.0,sauber,ferrari,2024
-lawson,,16.0,rb,rbpt,2024
 perez,87.0,17.0,red_bull,rbpt,2024
 alonso,92.0,18.0,aston_martin,mercedes,2024
 albon,85.0,19.0,williams,mercedes,2024
@@ -2046,15 +2011,12 @@ leclerc,89.0,5.0,ferrari,ferrari,2024
 norris,89.0,6.0,mclaren,mercedes,2024
 tsunoda,81.0,7.0,rb,rbpt,2024
 piastri,84.0,8.0,mclaren,mercedes,2024
-lawson,,9.0,rb,rbpt,2024
 hamilton,89.0,10.0,mercedes,mercedes,2024
 perez,87.0,11.0,red_bull,rbpt,2024
-bearman,,12.0,haas,ferrari,2024
 bottas,81.0,13.0,sauber,ferrari,2024
 alonso,92.0,14.0,aston_martin,mercedes,2024
 zhou,80.0,15.0,sauber,ferrari,2024
 sainz,89.0,16.0,ferrari,ferrari,2024
-colapinto,,17.0,williams,mercedes,2024
 albon,85.0,18.0,williams,mercedes,2024
 stroll,80.0,19.0,aston_martin,mercedes,2024
 hulkenberg,82.0,20.0,haas,ferrari,2024
@@ -2071,9 +2033,7 @@ perez,87.0,10.0,red_bull,rbpt,2024
 alonso,92.0,11.0,aston_martin,mercedes,2024
 kevin_magnussen,80.0,12.0,haas,ferrari,2024
 zhou,80.0,13.0,sauber,ferrari,2024
-colapinto,,14.0,williams,mercedes,2024
 stroll,80.0,15.0,aston_martin,mercedes,2024
-lawson,,16.0,rb,rbpt,2024
 ocon,83.0,17.0,alpine,renault,2024
 bottas,81.0,18.0,sauber,ferrari,2024
 albon,85.0,19.0,williams,mercedes,2024
@@ -2091,12 +2051,10 @@ norris,89.0,10.0,mclaren,mercedes,2024
 bottas,81.0,11.0,sauber,ferrari,2024
 hamilton,89.0,12.0,mercedes,mercedes,2024
 tsunoda,81.0,13.0,rb,rbpt,2024
-lawson,,14.0,rb,rbpt,2024
 albon,85.0,15.0,williams,mercedes,2024
 hulkenberg,82.0,16.0,haas,ferrari,2024
 perez,87.0,17.0,red_bull,rbpt,2024
 stroll,80.0,18.0,aston_martin,mercedes,2024
-colapinto,,19.0,williams,mercedes,2024
 ocon,83.0,20.0,alpine,renault,2024
 norris,89.0,1.0,mclaren,mercedes,2024
 sainz,89.0,2.0,ferrari,ferrari,2024
@@ -2112,9 +2070,6 @@ albon,85.0,11.0,williams,mercedes,2024
 tsunoda,81.0,12.0,rb,rbpt,2024
 zhou,80.0,13.0,sauber,ferrari,2024
 stroll,80.0,14.0,aston_martin,mercedes,2024
-doohan,,15.0,alpine,renault,2024
 kevin_magnussen,80.0,16.0,haas,ferrari,2024
-lawson,,17.0,rb,rbpt,2024
 bottas,81.0,18.0,sauber,ferrari,2024
-colapinto,,19.0,williams,mercedes,2024
 perez,87.0,20.0,red_bull,rbpt,2024
