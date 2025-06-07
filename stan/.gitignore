@@ -4,6 +4,8 @@
 # Allow .stan and .txt files
 !*.stan
 !*.txt
+!*.png
+!*.csv
 
 # Allow this .gitignore file
 !.gitignore
