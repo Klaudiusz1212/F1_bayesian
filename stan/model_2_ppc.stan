@@ -1,0 +1,19 @@
+data {
+    real sigma;              // prior std
+    real drive_rating;        // if high value driver was better
+}
+
+generated quantities {
+    real engine = normal_rng(0, sigma);
+    real constructor = normal_rng(0, sigma);
+    real year = normal_rng(0, sigma);
+    real alpha_driver = abs(normal_rng(0, sigma));
+
+    real theta = inv_logit(
+        engine + constructor + year -
+        alpha_driver * drive_rating         
+              
+    );
+
+    int y_ppc = binomial_rng(19, theta);
+}
