@@ -3,21 +3,21 @@ data {
     int<lower=1> C;                           // num of unique constructors
     int<lower=1> E;                           // num of unique engine
     int<lower=1> D;                           // num of unique driver             
-    
+    int<lower=1> Y;                           // num of year  
 
     array [N] real driver_rating;   
-    array [N] real avg_pos;     
     array[N] int<lower=1, upper=E> engine;      // engine indices list
     array[N] int<lower=1, upper=C> constructor; // constructors indices list
     array[N] int<lower=1, upper=D> driver;      // driver indices list
-    array[N] int<lower=1, upper=19> position;   // race position     
+    array[N] int<lower=1, upper=Y> year;        // driver indices list
+    array[N] int<lower=0, upper=19> position;   // race position     
 }
 
 parameters {
     vector[E] alpha_engine;
     vector[C] alpha_constructor;
     vector<lower=0>[D] alpha_driver;
-    vector<lower=0>[C] alpha_avg_pos;
+    vector[Y] alpha_year;
 }
 
 
@@ -25,7 +25,7 @@ transformed parameters {
     vector[N] theta;
 
     for (i in 1:N)
-        theta[i] = inv_logit(alpha_engine[engine[i]] + alpha_constructor[constructor[i]] - alpha_driver[driver[i]] * driver_rating[i] + alpha_avg_pos[driver[i]] * avg_pos[i]);
+        theta[i] = inv_logit(alpha_engine[engine[i]] + alpha_constructor[constructor[i]] - alpha_driver[driver[i]] * driver_rating[i] + alpha_year[year[i]]);
 }
 
 model {
@@ -33,7 +33,7 @@ model {
     alpha_constructor ~ normal(0, 0.8);
     
     alpha_driver ~ normal(0, 0.8);
-    alpha_avg_pos ~ normal(0, 0.8);
+    alpha_year ~ normal(0, 0.8);
 
     position ~ binomial(19, theta);
 }
