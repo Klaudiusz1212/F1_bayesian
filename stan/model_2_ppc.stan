@@ -1,5 +1,5 @@
 data {
-    real sigma;              // prior std
+    real sigma;               // prior std
     real drive_rating;        // if high value driver was better
 }
 

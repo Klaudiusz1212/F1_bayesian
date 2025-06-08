@@ -1,9 +1,9 @@
 data {
-    int<lower=1> N;                           // liczba obserwacji
-    int<lower=1> C;                           // liczba konstruktorów
-    int<lower=1> E;                           // liczba silników
-    int<lower=1> D;                           // liczba kierowców             
-    int<lower=1> Y;                           // liczba sezonów
+    int<lower=1> N;                          
+    int<lower=1> C;                           
+    int<lower=1> E;                           
+    int<lower=1> D;                                       
+    int<lower=1> Y;                           
 
     array[N] real driver_rating;   
     array[N] int<lower=1, upper=E> engine;      
