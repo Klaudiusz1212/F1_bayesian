@@ -27,9 +27,9 @@ transformed parameters {
   }
 }
 model {
-  alpha_engine ~ normal(0, 1);
-  to_vector(alpha_constructor_year) ~ normal(0, 1);
-  alpha_driver ~ normal(0, 1);
+  alpha_engine ~ normal(0, 0.8);
+  to_vector(alpha_constructor_year) ~ normal(0, 0.8);
+  alpha_driver ~ normal(0, 0.8);
   
   position ~ binomial(19, theta);
 }
