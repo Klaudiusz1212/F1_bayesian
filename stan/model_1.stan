@@ -21,8 +21,8 @@ transformed parameters {
   }
 }
 model {
-  alpha_constructor ~ normal(0, 0.8);
-  alpha_driver ~ normal(0, 0.8);
+  alpha_constructor ~ normal(0, 0.7);
+  alpha_driver ~ normal(1, 0.7);
   
   position ~ binomial(19, theta);
 }

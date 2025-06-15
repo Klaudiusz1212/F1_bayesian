@@ -4,7 +4,7 @@ data {
 }
 generated quantities {
   real constructor = normal_rng(0, sigma);
-  real alpha_driver = abs(normal_rng(0, sigma));
+  real alpha_driver = abs(normal_rng(1, sigma));
   
   real theta = inv_logit(constructor - alpha_driver * driver_rating);
   
