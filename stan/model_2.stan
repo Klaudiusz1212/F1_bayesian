@@ -16,20 +16,22 @@ parameters {
   vector[E] alpha_engine;
   matrix[Y, C] alpha_constructor_year;
   vector<lower=0>[D] alpha_driver;
+  real alpha_intercept;
 }
 transformed parameters {
   vector[N] theta;
   
   for (i in 1 : N) {
-    theta[i] = inv_logit(alpha_engine[engine[i]]
+    theta[i] = inv_logit(alpha_intercept + alpha_engine[engine[i]]
                          + alpha_constructor_year[year[i], constructor[i]]
-                         - alpha_driver[driver[i]] * driver_rating[i]);
+                         + alpha_driver[driver[i]] * driver_rating[i]);
   }
 }
 model {
-  alpha_engine ~ normal(0, 0.7);
-  to_vector(alpha_constructor_year) ~ normal(0, 0.7);
-  alpha_driver ~ normal(1, 0.7);
+  alpha_engine ~ normal(0, 1);
+  to_vector(alpha_constructor_year) ~ normal(0, 1);
+  alpha_driver ~ normal(0, 0.8);
+  alpha_intercept ~ normal(0, 0.5);
   
   position ~ binomial(19, theta);
 }

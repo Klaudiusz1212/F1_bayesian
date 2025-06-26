@@ -11,18 +11,20 @@ data {
 parameters {
   vector[C] alpha_constructor;
   vector<lower=0>[D] alpha_driver;
+  real alpha_intercept;
 }
 transformed parameters {
   vector[N] theta;
   
   for (i in 1 : N) {
-    theta[i] = inv_logit(alpha_constructor[constructor[i]]
-                         - alpha_driver[driver[i]] * driver_rating[i]);
+    theta[i] = inv_logit(alpha_intercept + alpha_constructor[constructor[i]]
+                         + alpha_driver[driver[i]] * driver_rating[i]);
   }
 }
 model {
-  alpha_constructor ~ normal(0, 0.7);
-  alpha_driver ~ normal(1, 0.7);
+  alpha_constructor ~ normal(0, 1);
+  alpha_driver ~ normal(0, 1);
+  alpha_intercept ~ normal(0, 0.5);
   
   position ~ binomial(19, theta);
 }
