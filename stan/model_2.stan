@@ -31,7 +31,7 @@ model {
   alpha_engine ~ normal(0, 1);
   to_vector(alpha_constructor_year) ~ normal(0, 1);
   alpha_driver ~ normal(0, 0.8);
-  alpha_intercept ~ normal(0, 0.5);
+  alpha_intercept ~ normal(0, 1);
   
   position ~ binomial(19, theta);
 }

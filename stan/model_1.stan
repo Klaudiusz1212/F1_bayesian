@@ -24,7 +24,7 @@ transformed parameters {
 model {
   alpha_constructor ~ normal(0, 1);
   alpha_driver ~ normal(0, 1);
-  alpha_intercept ~ normal(0, 0.5);
+  alpha_intercept ~ normal(0, 1);
   
   position ~ binomial(19, theta);
 }
